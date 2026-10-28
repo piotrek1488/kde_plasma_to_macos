@@ -1,0 +1,29 @@
+name: Installer checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    container: ubuntu:26.04
+    timeout-minutes: 15
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Install test dependencies
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends ca-certificates git python3 shellcheck rsync unzip
+          useradd --create-home ci-test
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Run checks as an unprivileged user
+        run: runuser -u ci-test -- bash tests/check.sh
