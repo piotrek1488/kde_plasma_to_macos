@@ -18,6 +18,8 @@ jobs:
         shell: bash
     steps:
       - name: Install test dependencies
+        env:
+          DEBIAN_FRONTEND: noninteractive
         run: |
           apt-get update
           apt-get install -y --no-install-recommends ca-certificates git python3 shellcheck rsync unzip

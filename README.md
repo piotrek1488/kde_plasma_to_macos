@@ -3,7 +3,9 @@
 This installer applies the bundled macOS-style themes and desktop layout to KDE Plasma 6 on Ubuntu/Kubuntu 26.04 LTS.
 
 > Sources were downloaded from [Transform KDE Plasma 6 Look Like macOS](https://www.opendesktop.org/p/2304796).
+><br>
 > Script is based on [TRANSFORM KDE PLASMA 6.6 LOOK LIKE MACOS ON CACHYOS](https://www.youtube.com/watch?v=IybrdYGncPw).
+><br>
 > ***All commands were ported to Ubuntu ones.***
 
 ## Requirements
