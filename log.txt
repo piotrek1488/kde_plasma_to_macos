@@ -1,0 +1,1769 @@
+git/kde_plasma_to_macos -> ./install.sh
+QThreadStorage: entry 7 destroyed before end of thread 0x63da8ce76080
+QThreadStorage: entry 2 destroyed before end of thread 0x63da8ce76080
+QThreadStorage: entry 1 destroyed before end of thread 0x63da8ce76080
+Backups of overwritten files: /home/piotr.ludwiczak/.local/state/kde-plasma-to-macos/backups/20261028-163455-444060
+Było:1 http://security.ubuntu.com/ubuntu resolute-security InRelease
+Było:2 https://www.synaptics.com/sites/default/files/Ubuntu stable InRelease                                                                                       
+Pobr:3 cfd+https://repo.open-client.ericsson.net/ubuntu resolute InRelease [3 175 B]                                                                               
+Było:4 http://archive.ubuntu.com/ubuntu resolute InRelease                                                                                       
+Było:5 https://pkg.cloudflare.com/cloudflared any InRelease                                                       
+Pobr:6 http://archive.ubuntu.com/ubuntu resolute-updates InRelease [137 kB]           
+Było:7 https://pkg.cloudflareclient.com resolute InRelease                                
+Było:8 https://packages.microsoft.com/repos/edge-beta stable InRelease                    
+Było:9 https://packages.microsoft.com/repos/edge-stable stable InRelease
+Było:10 http://archive.ubuntu.com/ubuntu resolute-backports InRelease
+Było:11 https://packages.microsoft.com/repos/microsoft-ubuntu-resolute-prod resolute InRelease
+Pobr:12 http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages [793 kB]
+Było:13 https://packages.microsoft.com/repos/code stable InRelease
+Pobr:14 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 Packages [334 kB]
+Pobrano 1 264 kB w 2s (760 kB/s)                            
+Czytanie list pakietów... Gotowe
+Czytanie list pakietów... Gotowe
+Budowanie drzewa zależności... Gotowe
+Odczyt informacji o stanie... Gotowe   
+software-properties-common jest już w najnowszej wersji (0.120.1).
+software-properties-common oznaczono jako zainstalowany ręcznie.
+Rozwiązywanie zależności:... Gotowe
+Następujące pakiety zostały zainstalowane automatycznie i nie są już więcej wymagane:
+  linux-image-7.0.0-34-generic linux-main-modules-zfs-7.0.0-34-generic linux-modules-7.0.0-34-generic linux-tools-7.0.0-34 linux-tools-7.0.0-34-generic
+Aby je usunąć należy użyć "sudo apt autoremove".
+0 aktualizowanych, 0 nowo instalowanych, 0 usuwanych i 0 nieaktualizowanych.
+Dodawanie komponentu(ów) „universe” do wszystkich repozytoriów.
+Było:1 http://security.ubuntu.com/ubuntu resolute-security InRelease
+Było:2 https://packages.microsoft.com/repos/edge-beta stable InRelease                                                                                             
+Było:3 https://packages.microsoft.com/repos/edge-stable stable InRelease                                                                                           
+Było:4 https://www.synaptics.com/sites/default/files/Ubuntu stable InRelease                                                                  
+Pobr:5 cfd+https://repo.open-client.ericsson.net/ubuntu resolute InRelease [3 175 B]                              
+Było:6 https://packages.microsoft.com/repos/microsoft-ubuntu-resolute-prod resolute InRelease                                                    
+Było:7 https://packages.microsoft.com/repos/code stable InRelease                                                 
+Było:8 http://archive.ubuntu.com/ubuntu resolute InRelease                                                        
+Było:9 https://pkg.cloudflareclient.com resolute InRelease                            
+Było:10 https://pkg.cloudflare.com/cloudflared any InRelease
+Było:11 http://archive.ubuntu.com/ubuntu resolute-updates InRelease
+Było:12 http://archive.ubuntu.com/ubuntu resolute-backports InRelease
+Czytanie list pakietów... Gotowe
+Było:1 https://packages.microsoft.com/repos/edge-beta stable InRelease
+Było:2 https://packages.microsoft.com/repos/edge-stable stable InRelease                                                                                                 
+Było:3 https://www.synaptics.com/sites/default/files/Ubuntu stable InRelease                                                                                             
+Pobr:4 cfd+https://repo.open-client.ericsson.net/ubuntu resolute InRelease [3 175 B]                                                                                     
+Było:5 https://packages.microsoft.com/repos/microsoft-ubuntu-resolute-prod resolute InRelease                                                                            
+Było:6 http://security.ubuntu.com/ubuntu resolute-security InRelease                                                                          
+Było:7 https://packages.microsoft.com/repos/code stable InRelease                                                 
+Było:8 http://archive.ubuntu.com/ubuntu resolute InRelease                                                        
+Było:9 https://pkg.cloudflare.com/cloudflared any InRelease                           
+Było:10 https://pkg.cloudflareclient.com resolute InRelease                           
+Było:11 http://archive.ubuntu.com/ubuntu resolute-updates InRelease
+Było:12 http://archive.ubuntu.com/ubuntu resolute-backports InRelease
+Czytanie list pakietów... Gotowe
+Czytanie list pakietów... Gotowe
+Budowanie drzewa zależności... Gotowe
+Odczyt informacji o stanie... Gotowe   
+ca-certificates jest już w najnowszej wersji (20260816ubuntu0.26.04.1).
+curl jest już w najnowszej wersji (8.18.0-1ubuntu2.8).
+wget jest już w najnowszej wersji (1.25.0-2ubuntu4.4).
+rsync jest już w najnowszej wersji (3.4.1+ds1-7ubuntu0.3).
+rsync oznaczono jako zainstalowany ręcznie.
+git jest już w najnowszej wersji (1:2.53.0-1ubuntu1.1).
+kate jest już w najnowszej wersji (4:25.12.3-0ubuntu1).
+kate oznaczono jako zainstalowany ręcznie.
+unzip jest już w najnowszej wersji (6.0-29ubuntu1).
+zip jest już w najnowszej wersji (3.0-15ubuntu3).
+fontconfig jest już w najnowszej wersji (2.17.1-3ubuntu1).
+fontconfig oznaczono jako zainstalowany ręcznie.
+plasma-discover jest już w najnowszej wersji (6.6.6-0ubuntu0.1).
+plasma-discover oznaczono jako zainstalowany ręcznie.
+systemsettings jest już w najnowszej wersji (4:6.6.5-0ubuntu0.1).
+systemsettings oznaczono jako zainstalowany ręcznie.
+nautilus jest już w najnowszej wersji (1:50.2.2-0ubuntu0.2).
+nautilus oznaczono jako zainstalowany ręcznie.
+gnome-clocks jest już w najnowszej wersji (50.0-1).
+gnome-clocks oznaczono jako zainstalowany ręcznie.
+vlc jest już w najnowszej wersji (3.0.23-1).
+dconf-cli jest już w najnowszej wersji (0.49.0-4).
+xsettingsd jest już w najnowszej wersji (1.0.2-1build2).
+xsettingsd oznaczono jako zainstalowany ręcznie.
+flatpak jest już w najnowszej wersji (1.16.6-1).
+flatpak oznaczono jako zainstalowany ręcznie.
+libfuse2t64 jest już w najnowszej wersji (2.9.9-9build1).
+libfuse2t64 oznaczono jako zainstalowany ręcznie.
+konsole jest już w najnowszej wersji (4:25.12.3-0ubuntu1).
+konsole oznaczono jako zainstalowany ręcznie.
+sddm jest już w najnowszej wersji (0.21.0+git20250502.4fe234b-2ubuntu3).
+kde-config-sddm jest już w najnowszej wersji (4:6.6.4-0ubuntu1).
+kde-config-sddm oznaczono jako zainstalowany ręcznie.
+qml6-module-qt5compat-graphicaleffects jest już w najnowszej wersji (6.10.2-1).
+qml6-module-qt5compat-graphicaleffects oznaczono jako zainstalowany ręcznie.
+qml6-module-qtquick-virtualkeyboard jest już w najnowszej wersji (6.10.2+dfsg-1).
+qml6-module-qtquick-virtualkeyboard oznaczono jako zainstalowany ręcznie.
+binutils jest już w najnowszej wersji (2.46-3ubuntu2).
+binutils oznaczono jako zainstalowany ręcznie.
+build-essential jest już w najnowszej wersji (12.12ubuntu2.26.04.2).
+cmake jest już w najnowszej wersji (4.2.3-2ubuntu2).
+gettext jest już w najnowszej wersji (0.23.2-1).
+gettext oznaczono jako zainstalowany ręcznie.
+pkg-config jest już w najnowszej wersji (2.5.1-4).
+qt6-base-dev-tools jest już w najnowszej wersji (6.10.2+dfsg-7).
+qt6-base-dev-tools oznaczono jako zainstalowany ręcznie.
+Rozwiązywanie zależności:... Gotowe
+Następujące pakiety zostały zainstalowane automatycznie i nie są już więcej wymagane:
+  linux-image-7.0.0-34-generic linux-main-modules-zfs-7.0.0-34-generic linux-modules-7.0.0-34-generic linux-tools-7.0.0-34 linux-tools-7.0.0-34-generic
+Aby je usunąć należy użyć "sudo apt autoremove".
+Zostaną zainstalowane następujące dodatkowe pakiety:
+  assistant-qt6 designer-qt6 fonts-font-awesome fonts-material-design-icons-iconfont fonts-weather-icons gir1.2-geocodeglib-2.0 gir1.2-json-1.0 gir1.2-rest-1.0
+  gir1.2-shumate-1.0 gir1.2-xdp-1.0 gnome-terminal-data gwenview-doc kamera libboost-dev libboost1.90-dev libcfitsio10t64 libedataserverui4-1.0-0t64 libiniparser4
+  libkcolorpicker-qt6-0 libkf6archive-dev libkf6archive-doc libkf6bookmarks-dev libkf6bookmarks-doc libkf6codecs-dev libkf6codecs-doc libkf6colorscheme-dev
+  libkf6colorscheme-doc libkf6completion-dev libkf6completion-doc libkf6config-dev-bin libkf6config-doc libkf6configwidgets-dev libkf6configwidgets-doc
+  libkf6coreaddons-doc libkf6doctools-dev libkf6doctools-doc libkf6globalaccel-doc libkf6guiaddons-dev libkf6guiaddons-doc libkf6i18n-doc libkf6iconthemes-doc
+  libkf6itemmodels-dev libkf6itemmodels-doc libkf6itemviews-dev libkf6itemviews-doc libkf6jobwidgets-doc libkf6kio-doc libkf6notifications-dev libkf6notifications-doc
+  libkf6package-dev libkf6package-doc libkf6runner-doc libkf6service-doc libkf6solid-dev libkf6solid-doc libkf6svg-doc libkf6widgetsaddons-dev libkf6widgetsaddons-doc
+  libkf6windowsystem-doc libkimageannotator-common libkimageannotator-qt6-0 libkirigami-dev libkirigami-doc libplasma-doc libplasmaactivities-qt6-doc
+  libplasmaactivitiesstats-doc libprotobuf-c1 libqt6designer6 libqt6designercomponents6 libqt6help6 libqt6labssynchronizer6 libqt6qmlcompiler6 libqt6qmlnetwork6
+  libqt6quickshapesdesignhelpers6 libqt6quicktest6 libqt6quickvectorimage6 libqt6quickvectorimagegenerator6 libqt6quickvectorimagehelpers6 libqt6svgwidgets6
+  libqt6waylandcompositoriviapplication6 libqt6waylandcompositorpresentationtime6 libqt6waylandcompositorwlshell6 libqt6waylandcompositorxdgshell6 libsass1
+  libshumate-1.0-1 libshumate-common libspa-0.2-dev libvulkan-dev libyyjson0 linguist-qt6 qdoc-qt6 qmake6 qmake6-bin qml6-module-org-kde-i18n-localedata
+  qml6-module-org-kde-ki18n qml6-module-org-kde-layershell qml6-module-qml qml6-module-qmltime qml6-module-qt-labs-animation qml6-module-qt-labs-assetdownloader
+  qml6-module-qt-labs-settings qml6-module-qt-labs-sharedimage qml6-module-qt-labs-synchronizer qml6-module-qt-labs-wavefrontmesh qml6-module-qtnetwork
+  qml6-module-qtqml-xmllistmodel qml6-module-qtquick-localstorage qml6-module-qtquick-shapes-designhelpers qml6-module-qtquick-vectorimage
+  qml6-module-qtquick-vectorimage-helpers qml6-module-qttest qml6-module-qtwayland-client-texturesharing qml6-module-qtwayland-compositor qt-style-kvantum
+  qt-style-kvantum-l10n qt-style-kvantum-themes qt6-base-private-dev qt6-documentation-tools qt6-l10n-tools qt6-qmllint-plugins qt6-qmlls-plugins qt6-qmltooling-plugins
+  qt6-svg-dev qt6-tools-dev qt6-wayland-dev samba zsh-common
+Sugerowane pakiety:
+  libportaudio2 libboost-doc libboost1.90-doc libboost-atomic1.90-dev libboost-chrono1.90-dev libboost-container1.90-dev libboost-context1.90-dev
+  libboost-contract1.90-dev libboost-coroutine1.90-dev libboost-date-time1.90-dev libboost-exception1.90-dev libboost-fiber1.90-dev libboost-filesystem1.90-dev
+  libboost-graph-parallel1.90-dev libboost-graph1.90-dev libboost-iostreams1.90-dev libboost-json1.90-dev libboost-locale1.90-dev libboost-log1.90-dev
+  libboost-math1.90-dev libboost-mpi-python1.90-dev libboost-mpi1.90-dev libboost-nowide1.90-dev libboost-numpy1.90-dev libboost-program-options1.90-dev
+  libboost-python1.90-dev libboost-random1.90-dev libboost-regex1.90-dev libboost-serialization1.90-dev libboost-stacktrace1.90-dev libboost-test1.90-dev
+  libboost-thread1.90-dev libboost-timer1.90-dev libboost-type-erasure1.90-dev libboost-url1.90-dev libboost-wave1.90-dev libboost1.90-tools-dev libmpfrc++-dev
+  libntl-dev pipewire-doc ctdb winbind samba-vfs-ceph samba-vfs-glusterfs attr zsh-doc
+Zostaną zainstalowane następujące NOWE pakiety:
+  assistant-qt6 cava designer-qt6 elisa extra-cmake-modules fastfetch fonts-font-awesome fonts-material-design-icons-iconfont fonts-weather-icons gir1.2-geocodeglib-2.0
+  gir1.2-json-1.0 gir1.2-rest-1.0 gir1.2-shumate-1.0 gir1.2-xdp-1.0 gnome-calendar gnome-maps gnome-terminal gnome-terminal-data gnome-weather gwenview gwenview-doc
+  kamera kcalc libappstreamqt-dev libboost-dev libboost1.90-dev libcfitsio10t64 libedataserverui4-1.0-0t64 libiniparser4 libkcolorpicker-qt6-0 libkf6archive-dev
+  libkf6archive-doc libkf6bookmarks-dev libkf6bookmarks-doc libkf6codecs-dev libkf6codecs-doc libkf6colorscheme-dev libkf6colorscheme-doc libkf6completion-dev
+  libkf6completion-doc libkf6config-dev libkf6config-dev-bin libkf6config-doc libkf6configwidgets-dev libkf6configwidgets-doc libkf6coreaddons-dev libkf6coreaddons-doc
+  libkf6doctools-dev libkf6doctools-doc libkf6globalaccel-dev libkf6globalaccel-doc libkf6guiaddons-dev libkf6guiaddons-doc libkf6i18n-dev libkf6i18n-doc
+  libkf6iconthemes-dev libkf6iconthemes-doc libkf6itemmodels-dev libkf6itemmodels-doc libkf6itemviews-dev libkf6itemviews-doc libkf6jobwidgets-dev libkf6jobwidgets-doc
+  libkf6kio-dev libkf6kio-doc libkf6notifications-dev libkf6notifications-doc libkf6package-dev libkf6package-doc libkf6runner-dev libkf6runner-doc libkf6service-dev
+  libkf6service-doc libkf6solid-dev libkf6solid-doc libkf6svg-dev libkf6svg-doc libkf6widgetsaddons-dev libkf6widgetsaddons-doc libkf6windowsystem-dev
+  libkf6windowsystem-doc libkimageannotator-common libkimageannotator-qt6-0 libkirigami-dev libkirigami-doc liblayershellqtinterface-dev libpipewire-0.3-dev
+  libplasma-dev libplasma-doc libplasmaactivities-dev libplasmaactivities-qt6-doc libplasmaactivitiesstats-dev libplasmaactivitiesstats-doc libprotobuf-c1
+  libqt6designer6 libqt6designercomponents6 libqt6help6 libqt6labssynchronizer6 libqt6qmlcompiler6 libqt6qmlnetwork6 libqt6quickshapesdesignhelpers6 libqt6quicktest6
+  libqt6quickvectorimage6 libqt6quickvectorimagegenerator6 libqt6quickvectorimagehelpers6 libqt6svgwidgets6 libqt6waylandcompositoriviapplication6
+  libqt6waylandcompositorpresentationtime6 libqt6waylandcompositorwlshell6 libqt6waylandcompositorxdgshell6 libsass1 libshumate-1.0-1 libshumate-common libspa-0.2-dev
+  libvulkan-dev libyyjson0 linguist-qt6 nautilus-share plasma-workspace-dev qdoc-qt6 qmake6 qmake6-bin qml6-module-org-kde-i18n-localedata qml6-module-org-kde-ki18n
+  qml6-module-org-kde-layershell qml6-module-qml qml6-module-qmltime qml6-module-qt-labs-animation qml6-module-qt-labs-assetdownloader qml6-module-qt-labs-settings
+  qml6-module-qt-labs-sharedimage qml6-module-qt-labs-synchronizer qml6-module-qt-labs-wavefrontmesh qml6-module-qtnetwork qml6-module-qtqml-xmllistmodel
+  qml6-module-qtquick-localstorage qml6-module-qtquick-shapes-designhelpers qml6-module-qtquick-vectorimage qml6-module-qtquick-vectorimage-helpers qml6-module-qttest
+  qml6-module-qtwayland-client-texturesharing qml6-module-qtwayland-compositor qt-style-kvantum qt-style-kvantum-l10n qt-style-kvantum-themes qt5-style-kvantum
+  qt6-base-dev qt6-base-private-dev qt6-declarative-dev qt6-declarative-dev-tools qt6-documentation-tools qt6-l10n-tools qt6-qmllint-plugins qt6-qmlls-plugins
+  qt6-qmltooling-plugins qt6-shader-baker qt6-style-kvantum qt6-svg-dev qt6-tools-dev qt6-tools-dev-tools qt6-wayland-dev samba sassc sddm-theme-breeze starship zsh
+  zsh-common
+0 aktualizowanych, 167 nowo instalowanych, 0 usuwanych i 0 nieaktualizowanych.
+Konieczne pobranie 63,7 MB archiwów.
+Po tej operacji zostanie dodatkowo użyte 414 MB miejsca na dysku.
+Pobr:1 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6help6 amd64 6.10.2-1 [198 kB]
+Pobr:2 http://archive.ubuntu.com/ubuntu resolute/universe amd64 assistant-qt6 amd64 6.10.2-1 [578 kB]
+Pobr:3 http://archive.ubuntu.com/ubuntu resolute/main amd64 libiniparser4 amd64 4.2.6-1build1 [12,0 kB]
+Pobr:4 http://archive.ubuntu.com/ubuntu resolute/universe amd64 cava amd64 0.10.7+dfsg-1 [3 115 kB]
+Pobr:5 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6designer6 amd64 6.10.2-1 [2 996 kB]
+Pobr:6 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6designercomponents6 amd64 6.10.2-1 [921 kB]
+Pobr:7 http://archive.ubuntu.com/ubuntu resolute/universe amd64 designer-qt6 amd64 6.10.2-1 [187 kB]
+Pobr:8 http://archive.ubuntu.com/ubuntu resolute/universe amd64 elisa amd64 25.12.3-0ubuntu1 [1 950 kB]
+Pobr:9 http://archive.ubuntu.com/ubuntu resolute/universe amd64 extra-cmake-modules amd64 6.24.0-0ubuntu1 [215 kB]
+Pobr:10 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libyyjson0 amd64 0.12.0+ds-1 [109 kB]
+Pobr:11 http://archive.ubuntu.com/ubuntu resolute/universe amd64 fastfetch amd64 2.57.1+dfsg-1ubuntu1 [560 kB]
+Pobr:12 http://archive.ubuntu.com/ubuntu resolute/main amd64 fonts-font-awesome all 5.0.10+really4.7.0~dfsg-4.1build1 [531 kB]
+Pobr:13 http://archive.ubuntu.com/ubuntu resolute/universe amd64 fonts-material-design-icons-iconfont all 6.7.0+dfsg-1 [625 kB]
+Pobr:14 http://archive.ubuntu.com/ubuntu resolute/universe amd64 fonts-weather-icons all 2.0.12-2 [50,6 kB]
+Pobr:15 http://archive.ubuntu.com/ubuntu resolute/main amd64 gir1.2-json-1.0 amd64 1.10.8+ds-2 [10,0 kB]
+Pobr:16 http://archive.ubuntu.com/ubuntu resolute/main amd64 gir1.2-geocodeglib-2.0 amd64 3.26.4-3 [15,5 kB]
+Pobr:17 http://archive.ubuntu.com/ubuntu resolute/main amd64 gir1.2-rest-1.0 amd64 0.10.2-1 [7 450 B]
+Pobr:18 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libprotobuf-c1 amd64 1.5.1-1ubuntu2 [22,0 kB]
+Pobr:19 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libshumate-common all 1.6~beta-1 [17,0 kB]
+Pobr:20 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libshumate-1.0-1 amd64 1.6~beta-1 [148 kB]
+Pobr:21 http://archive.ubuntu.com/ubuntu resolute/universe amd64 gir1.2-shumate-1.0 amd64 1.6~beta-1 [15,0 kB]
+Pobr:22 http://archive.ubuntu.com/ubuntu resolute/main amd64 gir1.2-xdp-1.0 amd64 0.9.1-2build1 [9 214 B]
+Pobr:23 http://archive.ubuntu.com/ubuntu resolute/main amd64 libedataserverui4-1.0-0t64 amd64 3.56.2-8 [78,6 kB]
+Pobr:24 http://archive.ubuntu.com/ubuntu resolute/main amd64 gnome-calendar amd64 50.0-1 [329 kB]
+Pobr:25 http://archive.ubuntu.com/ubuntu resolute/universe amd64 gnome-terminal-data all 3.58.0-1ubuntu1 [40,0 kB]
+Pobr:26 http://archive.ubuntu.com/ubuntu resolute/universe amd64 gnome-terminal amd64 3.58.0-1ubuntu1 [224 kB]
+Pobr:27 http://archive.ubuntu.com/ubuntu resolute/universe amd64 gnome-weather all 50.0-1 [174 kB]
+Pobr:28 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libcfitsio10t64 amd64 4.6.3-1 [549 kB]
+Pobr:29 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkimageannotator-common all 0.7.2-2 [44,6 kB]
+Pobr:30 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkcolorpicker-qt6-0 amd64 0.3.1-3 [22,4 kB]
+Pobr:31 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkimageannotator-qt6-0 amd64 0.7.2-2 [375 kB]
+Pobr:32 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6svgwidgets6 amd64 6.10.2-2 [18,2 kB]
+Pobr:33 http://archive.ubuntu.com/ubuntu resolute/universe amd64 gwenview amd64 4:25.12.3-0ubuntu1 [1 290 kB]
+Pobr:34 http://archive.ubuntu.com/ubuntu resolute/universe amd64 gwenview-doc all 4:25.12.3-0ubuntu1 [5 622 kB]
+Pobr:35 http://archive.ubuntu.com/ubuntu resolute/universe amd64 kamera amd64 4:25.12.3-0ubuntu1 [191 kB]
+Pobr:36 http://archive.ubuntu.com/ubuntu resolute/universe amd64 kcalc amd64 4:25.12.3-0ubuntu1 [749 kB]
+Pobr:37 http://archive.ubuntu.com/ubuntu resolute/main amd64 libvulkan-dev amd64 1.4.341.0-1 [1 710 kB]
+Pobr:38 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qmake6-bin amd64 6.10.2+dfsg-7 [657 kB]
+Pobr:39 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qmake6 amd64 6.10.2+dfsg-7 [143 kB]
+Pobr:40 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-base-dev amd64 6.10.2+dfsg-7 [2 292 kB]
+Pobr:41 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libappstreamqt-dev amd64 1.1.2-1 [15,8 kB]
+Pobr:42 http://archive.ubuntu.com/ubuntu resolute/main amd64 libboost1.90-dev amd64 1.90.0-6ubuntu1 [11,5 MB]
+Pobr:43 http://archive.ubuntu.com/ubuntu resolute/main amd64 libboost-dev amd64 1.90.0.1ubuntu3 [3 552 B]
+Pobr:44 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6archive-dev amd64 6.24.0-0ubuntu1 [19,6 kB]
+Pobr:45 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6archive-doc all 6.24.0-0ubuntu1 [6 882 B]
+Pobr:46 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6codecs-dev amd64 6.24.0-0ubuntu1 [20,1 kB]
+Pobr:47 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6colorscheme-dev amd64 6.24.0-0ubuntu1 [14,7 kB]
+Pobr:48 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6config-dev-bin amd64 6.24.0-0ubuntu1 [81,8 kB]
+Pobr:49 http://archive.ubuntu.com/ubuntu resolute/universe amd64 linguist-qt6 amd64 6.10.2-1 [361 kB]
+Pobr:50 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qdoc-qt6 amd64 6.10.2-1 [684 kB]
+Pobr:51 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-documentation-tools amd64 6.10.2-1 [104 kB]
+Pobr:52 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-l10n-tools amd64 6.10.2-1 [377 kB]
+Pobr:53 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-tools-dev-tools amd64 6.10.2-1 [286 kB]
+Pobr:54 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-tools-dev amd64 6.10.2-1 [212 kB]
+Pobr:55 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6config-dev amd64 6.24.0-0ubuntu1 [51,3 kB]
+Pobr:56 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 libkf6coreaddons-dev amd64 6.24.0-0ubuntu1.1 [76,6 kB]
+Pobr:57 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6waylandcompositoriviapplication6 amd64 6.10.2-4 [14,6 kB]
+Pobr:58 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6waylandcompositorpresentationtime6 amd64 6.10.2-4 [13,6 kB]
+Pobr:59 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6waylandcompositorwlshell6 amd64 6.10.2-4 [14,0 kB]
+Pobr:60 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6waylandcompositorxdgshell6 amd64 6.10.2-4 [20,1 kB]
+Pobr:61 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtwayland-client-texturesharing amd64 6.10.2-4 [26,2 kB]
+Pobr:62 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtwayland-compositor amd64 6.10.2-4 [74,5 kB]
+Pobr:63 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-wayland-dev amd64 6.10.2-4 [72,8 kB]
+Pobr:64 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 libkf6guiaddons-dev amd64 6.24.0-0ubuntu1.1 [27,6 kB]
+Pobr:65 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-org-kde-i18n-localedata amd64 6.24.0-0ubuntu1 [26,5 kB]
+Pobr:66 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-org-kde-ki18n amd64 6.24.0-0ubuntu1 [16,9 kB]
+Pobr:67 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6labssynchronizer6 amd64 6.10.2+dfsg-3 [31,6 kB]
+Pobr:68 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6qmlcompiler6 amd64 6.10.2+dfsg-3 [791 kB]
+Pobr:69 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6qmlnetwork6 amd64 6.10.2+dfsg-3 [45,3 kB]
+Pobr:70 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6quickshapesdesignhelpers6 amd64 6.10.2+dfsg-3 [37,6 kB]
+Pobr:71 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6quicktest6 amd64 6.10.2+dfsg-3 [122 kB]
+Pobr:72 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6quickvectorimagegenerator6 amd64 6.10.2+dfsg-3 [81,6 kB]
+Pobr:73 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6quickvectorimage6 amd64 6.10.2+dfsg-3 [28,2 kB]
+Pobr:74 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libqt6quickvectorimagehelpers6 amd64 6.10.2+dfsg-3 [27,0 kB]
+Pobr:75 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qml amd64 6.10.2+dfsg-3 [28,0 kB]
+Pobr:76 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qmltime amd64 6.10.2+dfsg-3 [9 420 B]
+Pobr:77 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qt-labs-animation amd64 6.10.2+dfsg-3 [26,9 kB]
+Pobr:78 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qt-labs-assetdownloader amd64 6.10.2+dfsg-3 [14,7 kB]
+Pobr:79 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qt-labs-settings amd64 6.10.2+dfsg-3 [30,1 kB]
+Pobr:80 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qt-labs-sharedimage amd64 6.10.2+dfsg-3 [27,3 kB]
+Pobr:81 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qt-labs-synchronizer amd64 6.10.2+dfsg-3 [13,5 kB]
+Pobr:82 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qt-labs-wavefrontmesh amd64 6.10.2+dfsg-3 [29,0 kB]
+Pobr:83 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtnetwork amd64 6.10.2+dfsg-3 [15,9 kB]
+Pobr:84 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtqml-xmllistmodel amd64 6.10.2+dfsg-3 [55,9 kB]
+Pobr:85 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtquick-localstorage amd64 6.10.2+dfsg-3 [30,2 kB]
+Pobr:86 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtquick-shapes-designhelpers amd64 6.10.2+dfsg-3 [14,1 kB]
+Pobr:87 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtquick-vectorimage-helpers amd64 6.10.2+dfsg-3 [13,5 kB]
+Pobr:88 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qtquick-vectorimage amd64 6.10.2+dfsg-3 [13,8 kB]
+Pobr:89 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-qttest amd64 6.10.2+dfsg-3 [32,2 kB]                                                        
+Pobr:90 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-declarative-dev-tools amd64 6.10.2+dfsg-3 [2 333 kB]                                                
+Pobr:91 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-qmllint-plugins amd64 6.10.2+dfsg-3 [83,0 kB]                                                       
+Pobr:92 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-qmlls-plugins amd64 6.10.2+dfsg-3 [372 kB]                                                          
+Pobr:93 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-qmltooling-plugins amd64 6.10.2+dfsg-3 [271 kB]                                                     
+Pobr:94 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-svg-dev amd64 6.10.2-2 [22,4 kB]                                                                    
+Pobr:95 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-declarative-dev amd64 6.10.2+dfsg-3 [2 017 kB]                                                      
+Pobr:96 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6i18n-dev amd64 6.24.0-0ubuntu1 [39,6 kB]                                                          
+Pobr:97 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6widgetsaddons-dev amd64 6.24.0-0ubuntu1 [123 kB]                                                  
+Pobr:98 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6configwidgets-dev amd64 6.24.0-0ubuntu1 [32,3 kB]                                                 
+Pobr:99 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6bookmarks-dev amd64 6.24.0-0ubuntu1 [16,2 kB]                                                     
+Pobr:100 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6bookmarks-doc all 6.24.0-0ubuntu1 [4 324 B]                                                      
+Pobr:101 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6codecs-doc all 6.24.0-0ubuntu1 [7 432 B]                                                         
+Pobr:102 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6colorscheme-doc all 6.24.0-0ubuntu1 [3 558 B]                                                    
+Pobr:103 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6completion-dev amd64 6.24.0-0ubuntu1 [26,3 kB]                                                   
+Pobr:104 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6completion-doc all 6.24.0-0ubuntu1 [4 666 B]                                                     
+Pobr:105 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6config-doc all 6.24.0-0ubuntu1 [9 618 B]                                                         
+Pobr:106 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6configwidgets-doc all 6.24.0-0ubuntu1 [5 884 B]                                                  
+Pobr:107 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 libkf6coreaddons-doc all 6.24.0-0ubuntu1.1 [10,5 kB]                                           
+Pobr:108 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6doctools-dev amd64 6.24.0-0ubuntu1 [10,8 kB]                                                     
+Pobr:109 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6doctools-doc all 6.24.0-0ubuntu1 [4 818 B]                                                       
+Pobr:110 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6globalaccel-dev amd64 6.24.0-0ubuntu1 [11,8 kB]                                                  
+Pobr:111 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6globalaccel-doc all 6.24.0-0ubuntu1 [4 726 B]                                                    
+Pobr:112 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 libkf6guiaddons-doc all 6.24.0-0ubuntu1.1 [8 746 B]                                            
+Pobr:113 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6i18n-doc all 6.24.0-0ubuntu1 [13,7 kB]                                                           
+Pobr:114 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6iconthemes-dev amd64 6.24.0-0ubuntu2 [29,1 kB]                                                   
+Pobr:115 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6iconthemes-doc all 6.24.0-0ubuntu2 [6 034 B]                                                     
+Pobr:116 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6itemmodels-dev amd64 6.24.0-0ubuntu1 [19,2 kB]                                                   
+Pobr:117 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6itemmodels-doc all 6.24.0-0ubuntu1 [6 908 B]                                                     
+Pobr:118 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6itemviews-dev amd64 6.24.0-0ubuntu1 [27,2 kB]                                                    
+Pobr:119 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6itemviews-doc all 6.24.0-0ubuntu1 [6 854 B]                                                      
+Pobr:120 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6notifications-dev amd64 6.24.0-0ubuntu1 [22,6 kB]                                                
+Pobr:121 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-base-private-dev amd64 6.10.2+dfsg-7 [903 kB]                                                      
+Pobr:122 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6jobwidgets-dev amd64 6.24.0-0ubuntu1 [11,6 kB]                                                   
+Pobr:123 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6jobwidgets-doc all 6.24.0-0ubuntu1 [4 368 B]                                                     
+Pobr:124 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6service-dev amd64 6.24.0-0ubuntu1 [18,5 kB]                                                      
+Pobr:125 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6solid-dev amd64 6.24.0-0ubuntu1 [23,6 kB]                                                        
+Pobr:126 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6windowsystem-dev amd64 6.24.0-0ubuntu1 [43,4 kB]                                                 
+Pobr:127 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6kio-dev amd64 6.24.0-0ubuntu1 [178 kB]                                                           
+Pobr:128 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6kio-doc all 6.24.0-0ubuntu1 [11,3 kB]                                                            
+Pobr:129 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6notifications-doc all 6.24.0-0ubuntu1 [13,9 kB]                                                  
+Pobr:130 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6package-dev amd64 6.24.0-0ubuntu1 [13,9 kB]                                                      
+Pobr:131 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6package-doc all 6.24.0-0ubuntu1 [3 802 B]                                                        
+Pobr:132 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6runner-dev amd64 6.24.0-0ubuntu1 [101 kB]                                                        
+Pobr:133 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6runner-doc all 6.24.0-0ubuntu1 [5 120 B]                                                         
+Pobr:134 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6service-doc all 6.24.0-0ubuntu1 [4 926 B]                                                        
+Pobr:135 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6solid-doc all 6.24.0-0ubuntu1 [5 486 B]                                                          
+Pobr:136 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkirigami-dev amd64 6.24.0-0ubuntu1 [68,6 kB]                                                        
+Pobr:137 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6svg-dev amd64 6.24.0-0ubuntu1 [16,7 kB]                                                          
+Pobr:138 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6svg-doc all 6.24.0-0ubuntu1 [3 952 B]                                                            
+Pobr:139 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6widgetsaddons-doc all 6.24.0-0ubuntu1 [6 886 B]                                                  
+Pobr:140 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkf6windowsystem-doc all 6.24.0-0ubuntu1 [6 094 B]                                                   
+Pobr:141 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libkirigami-doc all 6.24.0-0ubuntu1 [6 544 B]                                                          
+Pobr:142 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qml6-module-org-kde-layershell amd64 6.6.4-0ubuntu1 [11,5 kB]                                          
+Pobr:143 http://archive.ubuntu.com/ubuntu resolute/universe amd64 liblayershellqtinterface-dev amd64 6.6.4-0ubuntu1 [8 778 B]                                            
+Pobr:144 http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 libspa-0.2-dev amd64 1.6.2-1ubuntu1.2 [127 kB]                                                     
+Pobr:145 http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 libpipewire-0.3-dev amd64 1.6.2-1ubuntu1.2 [60,5 kB]                                               
+Pobr:146 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 libplasma-dev amd64 6.6.6-0ubuntu0.1 [397 kB]                                                  
+Pobr:147 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 libplasma-doc all 6.6.6-0ubuntu0.1 [340 kB]                                                    
+Pobr:148 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libplasmaactivities-dev amd64 6.6.4-0ubuntu1 [11,9 kB]                                                 
+Pobr:149 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libplasmaactivities-qt6-doc all 6.6.4-0ubuntu1 [158 kB]                                                
+Pobr:150 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libplasmaactivitiesstats-dev amd64 6.6.4-0ubuntu1 [12,9 kB]                                            
+Pobr:151 http://archive.ubuntu.com/ubuntu resolute/universe amd64 libplasmaactivitiesstats-doc all 6.6.4-0ubuntu1 [197 kB]                                               
+Pobr:152 http://archive.ubuntu.com/ubuntu resolute/main amd64 libsass1 amd64 3.6.6-0ubuntu3 [689 kB]                                                                     
+Pobr:153 http://archive.ubuntu.com/ubuntu resolute-updates/main amd64 samba amd64 2:4.23.6+dfsg-1ubuntu2.2 [1 239 kB]                                                    
+Pobr:154 http://archive.ubuntu.com/ubuntu resolute/universe amd64 nautilus-share amd64 0.7.5-1 [65,8 kB]                                                                 
+Pobr:155 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 plasma-workspace-dev amd64 4:6.6.6-0ubuntu0.1 [73,2 kB]                                        
+Pobr:156 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt-style-kvantum-themes all 1.1.5-1 [308 kB]                                                           
+Pobr:157 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt-style-kvantum amd64 1.1.5-1 [949 kB]                                                                
+Pobr:158 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt-style-kvantum-l10n all 1.1.5-1 [246 kB]                                                             
+Pobr:159 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt5-style-kvantum all 1.1.5-1 [1 728 B]                                                                
+Pobr:160 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-shader-baker amd64 6.10.2-1 [36,0 kB]                                                              
+Pobr:161 http://archive.ubuntu.com/ubuntu resolute/universe amd64 qt6-style-kvantum all 1.1.5-1 [1 728 B]                                                                
+Pobr:162 http://archive.ubuntu.com/ubuntu resolute/universe amd64 sassc amd64 3.6.1+20201027-2build1 [10,6 kB]                                                           
+Pobr:163 http://archive.ubuntu.com/ubuntu resolute-updates/universe amd64 sddm-theme-breeze amd64 4:6.6.6-0ubuntu0.1 [616 kB]                                            
+Pobr:164 http://archive.ubuntu.com/ubuntu resolute/universe amd64 starship amd64 1.22.1-9ubuntu1 [2 371 kB]                                                              
+Pobr:165 http://archive.ubuntu.com/ubuntu resolute/main amd64 zsh-common all 5.9-8ubuntu3 [4 168 kB]                                                                     
+Pobr:166 http://archive.ubuntu.com/ubuntu resolute/main amd64 zsh amd64 5.9-8ubuntu3 [818 kB]                                                                            
+Pobr:167 http://archive.ubuntu.com/ubuntu resolute/universe amd64 gnome-maps amd64 49.3-1 [1 391 kB]                                                                     
+Pobrano 63,7 MB w 9s (7 414 kB/s)                                                                                                                                        
+Rozpakowywanie szablonów dla pakietów: 100%
+Wybieranie wcześniej niewybranego pakietu libqt6help6:amd64.
+(Odczytywanie bazy danych ... 471455 plików i katalogów obecnie zainstalowanych.)
+Przygotowywanie do rozpakowania pakietu .../000-libqt6help6_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu libqt6help6:amd64 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu assistant-qt6.
+Przygotowywanie do rozpakowania pakietu .../001-assistant-qt6_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu assistant-qt6 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu libiniparser4:amd64.
+Przygotowywanie do rozpakowania pakietu .../002-libiniparser4_4.2.6-1build1_amd64.deb ...
+Rozpakowywanie pakietu libiniparser4:amd64 (4.2.6-1build1) ...
+Wybieranie wcześniej niewybranego pakietu cava.
+Przygotowywanie do rozpakowania pakietu .../003-cava_0.10.7+dfsg-1_amd64.deb ...
+Rozpakowywanie pakietu cava (0.10.7+dfsg-1) ...
+Wybieranie wcześniej niewybranego pakietu libqt6designer6:amd64.
+Przygotowywanie do rozpakowania pakietu .../004-libqt6designer6_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu libqt6designer6:amd64 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu libqt6designercomponents6:amd64.
+Przygotowywanie do rozpakowania pakietu .../005-libqt6designercomponents6_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu libqt6designercomponents6:amd64 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu designer-qt6.
+Przygotowywanie do rozpakowania pakietu .../006-designer-qt6_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu designer-qt6 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu elisa.
+Przygotowywanie do rozpakowania pakietu .../007-elisa_25.12.3-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu elisa (25.12.3-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu extra-cmake-modules.
+Przygotowywanie do rozpakowania pakietu .../008-extra-cmake-modules_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu extra-cmake-modules (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libyyjson0:amd64.
+Przygotowywanie do rozpakowania pakietu .../009-libyyjson0_0.12.0+ds-1_amd64.deb ...
+Rozpakowywanie pakietu libyyjson0:amd64 (0.12.0+ds-1) ...
+Wybieranie wcześniej niewybranego pakietu fastfetch.
+Przygotowywanie do rozpakowania pakietu .../010-fastfetch_2.57.1+dfsg-1ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu fastfetch (2.57.1+dfsg-1ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu fonts-font-awesome.
+Przygotowywanie do rozpakowania pakietu .../011-fonts-font-awesome_5.0.10+really4.7.0~dfsg-4.1build1_all.deb ...
+Rozpakowywanie pakietu fonts-font-awesome (5.0.10+really4.7.0~dfsg-4.1build1) ...
+Wybieranie wcześniej niewybranego pakietu fonts-material-design-icons-iconfont.
+Przygotowywanie do rozpakowania pakietu .../012-fonts-material-design-icons-iconfont_6.7.0+dfsg-1_all.deb ...
+Rozpakowywanie pakietu fonts-material-design-icons-iconfont (6.7.0+dfsg-1) ...
+Wybieranie wcześniej niewybranego pakietu fonts-weather-icons.
+Przygotowywanie do rozpakowania pakietu .../013-fonts-weather-icons_2.0.12-2_all.deb ...
+Rozpakowywanie pakietu fonts-weather-icons (2.0.12-2) ...
+Wybieranie wcześniej niewybranego pakietu gir1.2-json-1.0:amd64.
+Przygotowywanie do rozpakowania pakietu .../014-gir1.2-json-1.0_1.10.8+ds-2_amd64.deb ...
+Rozpakowywanie pakietu gir1.2-json-1.0:amd64 (1.10.8+ds-2) ...
+Wybieranie wcześniej niewybranego pakietu gir1.2-geocodeglib-2.0:amd64.
+Przygotowywanie do rozpakowania pakietu .../015-gir1.2-geocodeglib-2.0_3.26.4-3_amd64.deb ...
+Rozpakowywanie pakietu gir1.2-geocodeglib-2.0:amd64 (3.26.4-3) ...
+Wybieranie wcześniej niewybranego pakietu gir1.2-rest-1.0:amd64.
+Przygotowywanie do rozpakowania pakietu .../016-gir1.2-rest-1.0_0.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu gir1.2-rest-1.0:amd64 (0.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu libprotobuf-c1:amd64.
+Przygotowywanie do rozpakowania pakietu .../017-libprotobuf-c1_1.5.1-1ubuntu2_amd64.deb ...
+Rozpakowywanie pakietu libprotobuf-c1:amd64 (1.5.1-1ubuntu2) ...
+Wybieranie wcześniej niewybranego pakietu libshumate-common.
+Przygotowywanie do rozpakowania pakietu .../018-libshumate-common_1.6~beta-1_all.deb ...
+Rozpakowywanie pakietu libshumate-common (1.6~beta-1) ...
+Wybieranie wcześniej niewybranego pakietu libshumate-1.0-1:amd64.
+Przygotowywanie do rozpakowania pakietu .../019-libshumate-1.0-1_1.6~beta-1_amd64.deb ...
+Rozpakowywanie pakietu libshumate-1.0-1:amd64 (1.6~beta-1) ...
+Wybieranie wcześniej niewybranego pakietu gir1.2-shumate-1.0:amd64.
+Przygotowywanie do rozpakowania pakietu .../020-gir1.2-shumate-1.0_1.6~beta-1_amd64.deb ...
+Rozpakowywanie pakietu gir1.2-shumate-1.0:amd64 (1.6~beta-1) ...
+Wybieranie wcześniej niewybranego pakietu gir1.2-xdp-1.0:amd64.
+Przygotowywanie do rozpakowania pakietu .../021-gir1.2-xdp-1.0_0.9.1-2build1_amd64.deb ...
+Rozpakowywanie pakietu gir1.2-xdp-1.0:amd64 (0.9.1-2build1) ...
+Wybieranie wcześniej niewybranego pakietu libedataserverui4-1.0-0t64:amd64.
+Przygotowywanie do rozpakowania pakietu .../022-libedataserverui4-1.0-0t64_3.56.2-8_amd64.deb ...
+Rozpakowywanie pakietu libedataserverui4-1.0-0t64:amd64 (3.56.2-8) ...
+Wybieranie wcześniej niewybranego pakietu gnome-calendar.
+Przygotowywanie do rozpakowania pakietu .../023-gnome-calendar_50.0-1_amd64.deb ...
+Rozpakowywanie pakietu gnome-calendar (50.0-1) ...
+Wybieranie wcześniej niewybranego pakietu gnome-terminal-data.
+Przygotowywanie do rozpakowania pakietu .../024-gnome-terminal-data_3.58.0-1ubuntu1_all.deb ...
+Rozpakowywanie pakietu gnome-terminal-data (3.58.0-1ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu gnome-terminal.
+Przygotowywanie do rozpakowania pakietu .../025-gnome-terminal_3.58.0-1ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu gnome-terminal (3.58.0-1ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu gnome-weather.
+Przygotowywanie do rozpakowania pakietu .../026-gnome-weather_50.0-1_all.deb ...
+Rozpakowywanie pakietu gnome-weather (50.0-1) ...
+Wybieranie wcześniej niewybranego pakietu libcfitsio10t64:amd64.
+Przygotowywanie do rozpakowania pakietu .../027-libcfitsio10t64_4.6.3-1_amd64.deb ...
+Rozpakowywanie pakietu libcfitsio10t64:amd64 (4.6.3-1) ...
+Wybieranie wcześniej niewybranego pakietu libkimageannotator-common.
+Przygotowywanie do rozpakowania pakietu .../028-libkimageannotator-common_0.7.2-2_all.deb ...
+Rozpakowywanie pakietu libkimageannotator-common (0.7.2-2) ...
+Wybieranie wcześniej niewybranego pakietu libkcolorpicker-qt6-0:amd64.
+Przygotowywanie do rozpakowania pakietu .../029-libkcolorpicker-qt6-0_0.3.1-3_amd64.deb ...
+Rozpakowywanie pakietu libkcolorpicker-qt6-0:amd64 (0.3.1-3) ...
+Wybieranie wcześniej niewybranego pakietu libkimageannotator-qt6-0:amd64.
+Przygotowywanie do rozpakowania pakietu .../030-libkimageannotator-qt6-0_0.7.2-2_amd64.deb ...
+Rozpakowywanie pakietu libkimageannotator-qt6-0:amd64 (0.7.2-2) ...
+Wybieranie wcześniej niewybranego pakietu libqt6svgwidgets6:amd64.
+Przygotowywanie do rozpakowania pakietu .../031-libqt6svgwidgets6_6.10.2-2_amd64.deb ...
+Rozpakowywanie pakietu libqt6svgwidgets6:amd64 (6.10.2-2) ...
+Wybieranie wcześniej niewybranego pakietu gwenview.
+Przygotowywanie do rozpakowania pakietu .../032-gwenview_4%3a25.12.3-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu gwenview (4:25.12.3-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu gwenview-doc.
+Przygotowywanie do rozpakowania pakietu .../033-gwenview-doc_4%3a25.12.3-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu gwenview-doc (4:25.12.3-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu kamera.
+Przygotowywanie do rozpakowania pakietu .../034-kamera_4%3a25.12.3-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu kamera (4:25.12.3-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu kcalc.
+Przygotowywanie do rozpakowania pakietu .../035-kcalc_4%3a25.12.3-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu kcalc (4:25.12.3-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libvulkan-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../036-libvulkan-dev_1.4.341.0-1_amd64.deb ...
+Rozpakowywanie pakietu libvulkan-dev:amd64 (1.4.341.0-1) ...
+Wybieranie wcześniej niewybranego pakietu qmake6-bin.
+Przygotowywanie do rozpakowania pakietu .../037-qmake6-bin_6.10.2+dfsg-7_amd64.deb ...
+Rozpakowywanie pakietu qmake6-bin (6.10.2+dfsg-7) ...
+Wybieranie wcześniej niewybranego pakietu qmake6:amd64.
+Przygotowywanie do rozpakowania pakietu .../038-qmake6_6.10.2+dfsg-7_amd64.deb ...
+Rozpakowywanie pakietu qmake6:amd64 (6.10.2+dfsg-7) ...
+Wybieranie wcześniej niewybranego pakietu qt6-base-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../039-qt6-base-dev_6.10.2+dfsg-7_amd64.deb ...
+Rozpakowywanie pakietu qt6-base-dev:amd64 (6.10.2+dfsg-7) ...
+Wybieranie wcześniej niewybranego pakietu libappstreamqt-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../040-libappstreamqt-dev_1.1.2-1_amd64.deb ...
+Rozpakowywanie pakietu libappstreamqt-dev:amd64 (1.1.2-1) ...
+Wybieranie wcześniej niewybranego pakietu libboost1.90-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../041-libboost1.90-dev_1.90.0-6ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libboost1.90-dev:amd64 (1.90.0-6ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libboost-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../042-libboost-dev_1.90.0.1ubuntu3_amd64.deb ...
+Rozpakowywanie pakietu libboost-dev:amd64 (1.90.0.1ubuntu3) ...
+Wybieranie wcześniej niewybranego pakietu libkf6archive-dev.
+Przygotowywanie do rozpakowania pakietu .../043-libkf6archive-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6archive-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6archive-doc.
+Przygotowywanie do rozpakowania pakietu .../044-libkf6archive-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6archive-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6codecs-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../045-libkf6codecs-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6codecs-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6colorscheme-dev.
+Przygotowywanie do rozpakowania pakietu .../046-libkf6colorscheme-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6colorscheme-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6config-dev-bin.
+Przygotowywanie do rozpakowania pakietu .../047-libkf6config-dev-bin_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6config-dev-bin (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu linguist-qt6.
+Przygotowywanie do rozpakowania pakietu .../048-linguist-qt6_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu linguist-qt6 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu qdoc-qt6.
+Przygotowywanie do rozpakowania pakietu .../049-qdoc-qt6_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu qdoc-qt6 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu qt6-documentation-tools.
+Przygotowywanie do rozpakowania pakietu .../050-qt6-documentation-tools_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu qt6-documentation-tools (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu qt6-l10n-tools.
+Przygotowywanie do rozpakowania pakietu .../051-qt6-l10n-tools_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu qt6-l10n-tools (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu qt6-tools-dev-tools.
+Przygotowywanie do rozpakowania pakietu .../052-qt6-tools-dev-tools_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu qt6-tools-dev-tools (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu qt6-tools-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../053-qt6-tools-dev_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu qt6-tools-dev:amd64 (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6config-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../054-libkf6config-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6config-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6coreaddons-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../055-libkf6coreaddons-dev_6.24.0-0ubuntu1.1_amd64.deb ...
+Rozpakowywanie pakietu libkf6coreaddons-dev:amd64 (6.24.0-0ubuntu1.1) ...
+Wybieranie wcześniej niewybranego pakietu libqt6waylandcompositoriviapplication6:amd64.
+Przygotowywanie do rozpakowania pakietu .../056-libqt6waylandcompositoriviapplication6_6.10.2-4_amd64.deb ...
+Rozpakowywanie pakietu libqt6waylandcompositoriviapplication6:amd64 (6.10.2-4) ...
+Wybieranie wcześniej niewybranego pakietu libqt6waylandcompositorpresentationtime6:amd64.
+Przygotowywanie do rozpakowania pakietu .../057-libqt6waylandcompositorpresentationtime6_6.10.2-4_amd64.deb ...
+Rozpakowywanie pakietu libqt6waylandcompositorpresentationtime6:amd64 (6.10.2-4) ...
+Wybieranie wcześniej niewybranego pakietu libqt6waylandcompositorwlshell6:amd64.
+Przygotowywanie do rozpakowania pakietu .../058-libqt6waylandcompositorwlshell6_6.10.2-4_amd64.deb ...
+Rozpakowywanie pakietu libqt6waylandcompositorwlshell6:amd64 (6.10.2-4) ...
+Wybieranie wcześniej niewybranego pakietu libqt6waylandcompositorxdgshell6:amd64.
+Przygotowywanie do rozpakowania pakietu .../059-libqt6waylandcompositorxdgshell6_6.10.2-4_amd64.deb ...
+Rozpakowywanie pakietu libqt6waylandcompositorxdgshell6:amd64 (6.10.2-4) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtwayland-client-texturesharing:amd64.
+Przygotowywanie do rozpakowania pakietu .../060-qml6-module-qtwayland-client-texturesharing_6.10.2-4_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtwayland-client-texturesharing:amd64 (6.10.2-4) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtwayland-compositor:amd64.
+Przygotowywanie do rozpakowania pakietu .../061-qml6-module-qtwayland-compositor_6.10.2-4_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtwayland-compositor:amd64 (6.10.2-4) ...
+Wybieranie wcześniej niewybranego pakietu qt6-wayland-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../062-qt6-wayland-dev_6.10.2-4_amd64.deb ...
+Rozpakowywanie pakietu qt6-wayland-dev:amd64 (6.10.2-4) ...
+Wybieranie wcześniej niewybranego pakietu libkf6guiaddons-dev.
+Przygotowywanie do rozpakowania pakietu .../063-libkf6guiaddons-dev_6.24.0-0ubuntu1.1_amd64.deb ...
+Rozpakowywanie pakietu libkf6guiaddons-dev (6.24.0-0ubuntu1.1) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-org-kde-i18n-localedata:amd64.
+Przygotowywanie do rozpakowania pakietu .../064-qml6-module-org-kde-i18n-localedata_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-org-kde-i18n-localedata:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-org-kde-ki18n:amd64.
+Przygotowywanie do rozpakowania pakietu .../065-qml6-module-org-kde-ki18n_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-org-kde-ki18n:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libqt6labssynchronizer6:amd64.
+Przygotowywanie do rozpakowania pakietu .../066-libqt6labssynchronizer6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6labssynchronizer6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libqt6qmlcompiler6:amd64.
+Przygotowywanie do rozpakowania pakietu .../067-libqt6qmlcompiler6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6qmlcompiler6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libqt6qmlnetwork6:amd64.
+Przygotowywanie do rozpakowania pakietu .../068-libqt6qmlnetwork6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6qmlnetwork6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libqt6quickshapesdesignhelpers6:amd64.
+Przygotowywanie do rozpakowania pakietu .../069-libqt6quickshapesdesignhelpers6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6quickshapesdesignhelpers6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libqt6quicktest6:amd64.
+Przygotowywanie do rozpakowania pakietu .../070-libqt6quicktest6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6quicktest6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libqt6quickvectorimagegenerator6:amd64.
+Przygotowywanie do rozpakowania pakietu .../071-libqt6quickvectorimagegenerator6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6quickvectorimagegenerator6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libqt6quickvectorimage6:amd64.
+Przygotowywanie do rozpakowania pakietu .../072-libqt6quickvectorimage6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6quickvectorimage6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libqt6quickvectorimagehelpers6:amd64.
+Przygotowywanie do rozpakowania pakietu .../073-libqt6quickvectorimagehelpers6_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu libqt6quickvectorimagehelpers6:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qml:amd64.
+Przygotowywanie do rozpakowania pakietu .../074-qml6-module-qml_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qml:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qmltime:amd64.
+Przygotowywanie do rozpakowania pakietu .../075-qml6-module-qmltime_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qmltime:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qt-labs-animation:amd64.
+Przygotowywanie do rozpakowania pakietu .../076-qml6-module-qt-labs-animation_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qt-labs-animation:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qt-labs-assetdownloader:amd64.
+Przygotowywanie do rozpakowania pakietu .../077-qml6-module-qt-labs-assetdownloader_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qt-labs-assetdownloader:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qt-labs-settings:amd64.
+Przygotowywanie do rozpakowania pakietu .../078-qml6-module-qt-labs-settings_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qt-labs-settings:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qt-labs-sharedimage:amd64.
+Przygotowywanie do rozpakowania pakietu .../079-qml6-module-qt-labs-sharedimage_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qt-labs-sharedimage:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qt-labs-synchronizer:amd64.
+Przygotowywanie do rozpakowania pakietu .../080-qml6-module-qt-labs-synchronizer_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qt-labs-synchronizer:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qt-labs-wavefrontmesh:amd64.
+Przygotowywanie do rozpakowania pakietu .../081-qml6-module-qt-labs-wavefrontmesh_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qt-labs-wavefrontmesh:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtnetwork:amd64.
+Przygotowywanie do rozpakowania pakietu .../082-qml6-module-qtnetwork_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtnetwork:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtqml-xmllistmodel:amd64.
+Przygotowywanie do rozpakowania pakietu .../083-qml6-module-qtqml-xmllistmodel_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtqml-xmllistmodel:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtquick-localstorage:amd64.
+Przygotowywanie do rozpakowania pakietu .../084-qml6-module-qtquick-localstorage_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtquick-localstorage:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtquick-shapes-designhelpers:amd64.
+Przygotowywanie do rozpakowania pakietu .../085-qml6-module-qtquick-shapes-designhelpers_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtquick-shapes-designhelpers:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtquick-vectorimage-helpers:amd64.
+Przygotowywanie do rozpakowania pakietu .../086-qml6-module-qtquick-vectorimage-helpers_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtquick-vectorimage-helpers:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qtquick-vectorimage:amd64.
+Przygotowywanie do rozpakowania pakietu .../087-qml6-module-qtquick-vectorimage_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qtquick-vectorimage:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-qttest:amd64.
+Przygotowywanie do rozpakowania pakietu .../088-qml6-module-qttest_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-qttest:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qt6-declarative-dev-tools.
+Przygotowywanie do rozpakowania pakietu .../089-qt6-declarative-dev-tools_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qt6-declarative-dev-tools (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qt6-qmllint-plugins:amd64.
+Przygotowywanie do rozpakowania pakietu .../090-qt6-qmllint-plugins_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qt6-qmllint-plugins:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qt6-qmlls-plugins:amd64.
+Przygotowywanie do rozpakowania pakietu .../091-qt6-qmlls-plugins_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qt6-qmlls-plugins:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qt6-qmltooling-plugins:amd64.
+Przygotowywanie do rozpakowania pakietu .../092-qt6-qmltooling-plugins_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qt6-qmltooling-plugins:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu qt6-svg-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../093-qt6-svg-dev_6.10.2-2_amd64.deb ...
+Rozpakowywanie pakietu qt6-svg-dev:amd64 (6.10.2-2) ...
+Wybieranie wcześniej niewybranego pakietu qt6-declarative-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../094-qt6-declarative-dev_6.10.2+dfsg-3_amd64.deb ...
+Rozpakowywanie pakietu qt6-declarative-dev:amd64 (6.10.2+dfsg-3) ...
+Wybieranie wcześniej niewybranego pakietu libkf6i18n-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../095-libkf6i18n-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6i18n-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6widgetsaddons-dev.
+Przygotowywanie do rozpakowania pakietu .../096-libkf6widgetsaddons-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6widgetsaddons-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6configwidgets-dev.
+Przygotowywanie do rozpakowania pakietu .../097-libkf6configwidgets-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6configwidgets-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6bookmarks-dev.
+Przygotowywanie do rozpakowania pakietu .../098-libkf6bookmarks-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6bookmarks-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6bookmarks-doc.
+Przygotowywanie do rozpakowania pakietu .../099-libkf6bookmarks-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6bookmarks-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6codecs-doc.
+Przygotowywanie do rozpakowania pakietu .../100-libkf6codecs-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6codecs-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6colorscheme-doc.
+Przygotowywanie do rozpakowania pakietu .../101-libkf6colorscheme-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6colorscheme-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6completion-dev.
+Przygotowywanie do rozpakowania pakietu .../102-libkf6completion-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6completion-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6completion-doc.
+Przygotowywanie do rozpakowania pakietu .../103-libkf6completion-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6completion-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6config-doc.
+Przygotowywanie do rozpakowania pakietu .../104-libkf6config-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6config-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6configwidgets-doc.
+Przygotowywanie do rozpakowania pakietu .../105-libkf6configwidgets-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6configwidgets-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6coreaddons-doc.
+Przygotowywanie do rozpakowania pakietu .../106-libkf6coreaddons-doc_6.24.0-0ubuntu1.1_all.deb ...
+Rozpakowywanie pakietu libkf6coreaddons-doc (6.24.0-0ubuntu1.1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6doctools-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../107-libkf6doctools-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6doctools-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6doctools-doc.
+Przygotowywanie do rozpakowania pakietu .../108-libkf6doctools-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6doctools-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6globalaccel-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../109-libkf6globalaccel-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6globalaccel-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6globalaccel-doc.
+Przygotowywanie do rozpakowania pakietu .../110-libkf6globalaccel-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6globalaccel-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6guiaddons-doc.
+Przygotowywanie do rozpakowania pakietu .../111-libkf6guiaddons-doc_6.24.0-0ubuntu1.1_all.deb ...
+Rozpakowywanie pakietu libkf6guiaddons-doc (6.24.0-0ubuntu1.1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6i18n-doc.
+Przygotowywanie do rozpakowania pakietu .../112-libkf6i18n-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6i18n-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6iconthemes-dev.
+Przygotowywanie do rozpakowania pakietu .../113-libkf6iconthemes-dev_6.24.0-0ubuntu2_amd64.deb ...
+Rozpakowywanie pakietu libkf6iconthemes-dev (6.24.0-0ubuntu2) ...
+Wybieranie wcześniej niewybranego pakietu libkf6iconthemes-doc.
+Przygotowywanie do rozpakowania pakietu .../114-libkf6iconthemes-doc_6.24.0-0ubuntu2_all.deb ...
+Rozpakowywanie pakietu libkf6iconthemes-doc (6.24.0-0ubuntu2) ...
+Wybieranie wcześniej niewybranego pakietu libkf6itemmodels-dev.
+Przygotowywanie do rozpakowania pakietu .../115-libkf6itemmodels-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6itemmodels-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6itemmodels-doc.
+Przygotowywanie do rozpakowania pakietu .../116-libkf6itemmodels-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6itemmodels-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6itemviews-dev.
+Przygotowywanie do rozpakowania pakietu .../117-libkf6itemviews-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6itemviews-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6itemviews-doc.
+Przygotowywanie do rozpakowania pakietu .../118-libkf6itemviews-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6itemviews-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6notifications-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../119-libkf6notifications-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6notifications-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu qt6-base-private-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../120-qt6-base-private-dev_6.10.2+dfsg-7_amd64.deb ...
+Rozpakowywanie pakietu qt6-base-private-dev:amd64 (6.10.2+dfsg-7) ...
+Wybieranie wcześniej niewybranego pakietu libkf6jobwidgets-dev.
+Przygotowywanie do rozpakowania pakietu .../121-libkf6jobwidgets-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6jobwidgets-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6jobwidgets-doc.
+Przygotowywanie do rozpakowania pakietu .../122-libkf6jobwidgets-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6jobwidgets-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6service-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../123-libkf6service-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6service-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6solid-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../124-libkf6solid-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6solid-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6windowsystem-dev.
+Przygotowywanie do rozpakowania pakietu .../125-libkf6windowsystem-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6windowsystem-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6kio-dev.
+Przygotowywanie do rozpakowania pakietu .../126-libkf6kio-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6kio-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6kio-doc.
+Przygotowywanie do rozpakowania pakietu .../127-libkf6kio-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6kio-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6notifications-doc.
+Przygotowywanie do rozpakowania pakietu .../128-libkf6notifications-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6notifications-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6package-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../129-libkf6package-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6package-dev:amd64 (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6package-doc.
+Przygotowywanie do rozpakowania pakietu .../130-libkf6package-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6package-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6runner-dev.
+Przygotowywanie do rozpakowania pakietu .../131-libkf6runner-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6runner-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6runner-doc.
+Przygotowywanie do rozpakowania pakietu .../132-libkf6runner-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6runner-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6service-doc.
+Przygotowywanie do rozpakowania pakietu .../133-libkf6service-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6service-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6solid-doc.
+Przygotowywanie do rozpakowania pakietu .../134-libkf6solid-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6solid-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkirigami-dev.
+Przygotowywanie do rozpakowania pakietu .../135-libkirigami-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkirigami-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6svg-dev.
+Przygotowywanie do rozpakowania pakietu .../136-libkf6svg-dev_6.24.0-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libkf6svg-dev (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6svg-doc.
+Przygotowywanie do rozpakowania pakietu .../137-libkf6svg-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6svg-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6widgetsaddons-doc.
+Przygotowywanie do rozpakowania pakietu .../138-libkf6widgetsaddons-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6widgetsaddons-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkf6windowsystem-doc.
+Przygotowywanie do rozpakowania pakietu .../139-libkf6windowsystem-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkf6windowsystem-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libkirigami-doc.
+Przygotowywanie do rozpakowania pakietu .../140-libkirigami-doc_6.24.0-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libkirigami-doc (6.24.0-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu qml6-module-org-kde-layershell:amd64.
+Przygotowywanie do rozpakowania pakietu .../141-qml6-module-org-kde-layershell_6.6.4-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu qml6-module-org-kde-layershell:amd64 (6.6.4-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu liblayershellqtinterface-dev.
+Przygotowywanie do rozpakowania pakietu .../142-liblayershellqtinterface-dev_6.6.4-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu liblayershellqtinterface-dev (6.6.4-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libspa-0.2-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../143-libspa-0.2-dev_1.6.2-1ubuntu1.2_amd64.deb ...
+Rozpakowywanie pakietu libspa-0.2-dev:amd64 (1.6.2-1ubuntu1.2) ...
+Wybieranie wcześniej niewybranego pakietu libpipewire-0.3-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../144-libpipewire-0.3-dev_1.6.2-1ubuntu1.2_amd64.deb ...
+Rozpakowywanie pakietu libpipewire-0.3-dev:amd64 (1.6.2-1ubuntu1.2) ...
+Wybieranie wcześniej niewybranego pakietu libplasma-dev.
+Przygotowywanie do rozpakowania pakietu .../145-libplasma-dev_6.6.6-0ubuntu0.1_amd64.deb ...
+Rozpakowywanie pakietu libplasma-dev (6.6.6-0ubuntu0.1) ...
+Wybieranie wcześniej niewybranego pakietu libplasma-doc.
+Przygotowywanie do rozpakowania pakietu .../146-libplasma-doc_6.6.6-0ubuntu0.1_all.deb ...
+Rozpakowywanie pakietu libplasma-doc (6.6.6-0ubuntu0.1) ...
+Wybieranie wcześniej niewybranego pakietu libplasmaactivities-dev.
+Przygotowywanie do rozpakowania pakietu .../147-libplasmaactivities-dev_6.6.4-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libplasmaactivities-dev (6.6.4-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libplasmaactivities-qt6-doc.
+Przygotowywanie do rozpakowania pakietu .../148-libplasmaactivities-qt6-doc_6.6.4-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libplasmaactivities-qt6-doc (6.6.4-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libplasmaactivitiesstats-dev:amd64.
+Przygotowywanie do rozpakowania pakietu .../149-libplasmaactivitiesstats-dev_6.6.4-0ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu libplasmaactivitiesstats-dev:amd64 (6.6.4-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libplasmaactivitiesstats-doc.
+Przygotowywanie do rozpakowania pakietu .../150-libplasmaactivitiesstats-doc_6.6.4-0ubuntu1_all.deb ...
+Rozpakowywanie pakietu libplasmaactivitiesstats-doc (6.6.4-0ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu libsass1:amd64.
+Przygotowywanie do rozpakowania pakietu .../151-libsass1_3.6.6-0ubuntu3_amd64.deb ...
+Rozpakowywanie pakietu libsass1:amd64 (3.6.6-0ubuntu3) ...
+Wybieranie wcześniej niewybranego pakietu samba.
+Przygotowywanie do rozpakowania pakietu .../152-samba_2%3a4.23.6+dfsg-1ubuntu2.2_amd64.deb ...
+Rozpakowywanie pakietu samba (2:4.23.6+dfsg-1ubuntu2.2) ...
+Wybieranie wcześniej niewybranego pakietu nautilus-share.
+Przygotowywanie do rozpakowania pakietu .../153-nautilus-share_0.7.5-1_amd64.deb ...
+Rozpakowywanie pakietu nautilus-share (0.7.5-1) ...
+Wybieranie wcześniej niewybranego pakietu plasma-workspace-dev.
+Przygotowywanie do rozpakowania pakietu .../154-plasma-workspace-dev_4%3a6.6.6-0ubuntu0.1_amd64.deb ...
+Rozpakowywanie pakietu plasma-workspace-dev (4:6.6.6-0ubuntu0.1) ...
+Wybieranie wcześniej niewybranego pakietu qt-style-kvantum-themes.
+Przygotowywanie do rozpakowania pakietu .../155-qt-style-kvantum-themes_1.1.5-1_all.deb ...
+Rozpakowywanie pakietu qt-style-kvantum-themes (1.1.5-1) ...
+Wybieranie wcześniej niewybranego pakietu qt-style-kvantum.
+Przygotowywanie do rozpakowania pakietu .../156-qt-style-kvantum_1.1.5-1_amd64.deb ...
+Rozpakowywanie pakietu qt-style-kvantum (1.1.5-1) ...
+Wybieranie wcześniej niewybranego pakietu qt-style-kvantum-l10n.
+Przygotowywanie do rozpakowania pakietu .../157-qt-style-kvantum-l10n_1.1.5-1_all.deb ...
+Rozpakowywanie pakietu qt-style-kvantum-l10n (1.1.5-1) ...
+Wybieranie wcześniej niewybranego pakietu qt5-style-kvantum.
+Przygotowywanie do rozpakowania pakietu .../158-qt5-style-kvantum_1.1.5-1_all.deb ...
+Rozpakowywanie pakietu qt5-style-kvantum (1.1.5-1) ...
+Wybieranie wcześniej niewybranego pakietu qt6-shader-baker.
+Przygotowywanie do rozpakowania pakietu .../159-qt6-shader-baker_6.10.2-1_amd64.deb ...
+Rozpakowywanie pakietu qt6-shader-baker (6.10.2-1) ...
+Wybieranie wcześniej niewybranego pakietu qt6-style-kvantum.
+Przygotowywanie do rozpakowania pakietu .../160-qt6-style-kvantum_1.1.5-1_all.deb ...
+Rozpakowywanie pakietu qt6-style-kvantum (1.1.5-1) ...
+Wybieranie wcześniej niewybranego pakietu sassc.
+Przygotowywanie do rozpakowania pakietu .../161-sassc_3.6.1+20201027-2build1_amd64.deb ...
+Rozpakowywanie pakietu sassc (3.6.1+20201027-2build1) ...
+Wybieranie wcześniej niewybranego pakietu sddm-theme-breeze.
+Przygotowywanie do rozpakowania pakietu .../162-sddm-theme-breeze_4%3a6.6.6-0ubuntu0.1_amd64.deb ...
+Rozpakowywanie pakietu sddm-theme-breeze (4:6.6.6-0ubuntu0.1) ...
+Wybieranie wcześniej niewybranego pakietu starship.
+Przygotowywanie do rozpakowania pakietu .../163-starship_1.22.1-9ubuntu1_amd64.deb ...
+Rozpakowywanie pakietu starship (1.22.1-9ubuntu1) ...
+Wybieranie wcześniej niewybranego pakietu zsh-common.
+Przygotowywanie do rozpakowania pakietu .../164-zsh-common_5.9-8ubuntu3_all.deb ...
+Rozpakowywanie pakietu zsh-common (5.9-8ubuntu3) ...
+Wybieranie wcześniej niewybranego pakietu zsh.
+Przygotowywanie do rozpakowania pakietu .../165-zsh_5.9-8ubuntu3_amd64.deb ...
+Rozpakowywanie pakietu zsh (5.9-8ubuntu3) ...
+Wybieranie wcześniej niewybranego pakietu gnome-maps.
+Przygotowywanie do rozpakowania pakietu .../166-gnome-maps_49.3-1_amd64.deb ...
+Rozpakowywanie pakietu gnome-maps (49.3-1) ...
+Konfigurowanie pakietu libedataserverui4-1.0-0t64:amd64 (3.56.2-8) ...
+Konfigurowanie pakietu libkf6codecs-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu kamera (4:25.12.3-0ubuntu1) ...
+Konfigurowanie pakietu libkf6colorscheme-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qml6-module-qt-labs-wavefrontmesh:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libplasmaactivities-qt6-doc (6.6.4-0ubuntu1) ...
+Konfigurowanie pakietu libkf6config-dev-bin (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6archive-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libvulkan-dev:amd64 (1.4.341.0-1) ...
+Konfigurowanie pakietu libqt6labssynchronizer6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libkf6itemviews-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu sddm-theme-breeze (4:6.6.6-0ubuntu0.1) ...
+update-alternatives: użycie /usr/share/sddm/themes/breeze jako dostarczającego /usr/share/sddm/themes/ubuntu-theme (sddm-ubuntu-theme) w trybie automatycznym
+Konfigurowanie pakietu libkf6i18n-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6coreaddons-doc (6.24.0-0ubuntu1.1) ...
+Konfigurowanie pakietu qt6-l10n-tools (6.10.2-1) ...
+Konfigurowanie pakietu fonts-material-design-icons-iconfont (6.7.0+dfsg-1) ...
+Konfigurowanie pakietu qml6-module-qt-labs-synchronizer:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libsass1:amd64 (3.6.6-0ubuntu3) ...
+Konfigurowanie pakietu libkf6solid-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu extra-cmake-modules (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu starship (1.22.1-9ubuntu1) ...
+Konfigurowanie pakietu zsh-common (5.9-8ubuntu3) ...
+Konfigurowanie pakietu qml6-module-qml:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu gnome-calendar (50.0-1) ...
+Konfigurowanie pakietu qt-style-kvantum-l10n (1.1.5-1) ...
+Konfigurowanie pakietu libkf6bookmarks-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libqt6help6:amd64 (6.10.2-1) ...
+Konfigurowanie pakietu gnome-weather (50.0-1) ...
+Konfigurowanie pakietu qml6-module-qt-labs-assetdownloader:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libqt6quickvectorimagehelpers6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libkf6configwidgets-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qdoc-qt6 (6.10.2-1) ...
+Konfigurowanie pakietu kcalc (4:25.12.3-0ubuntu1) ...
+Konfigurowanie pakietu libkf6jobwidgets-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6windowsystem-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libqt6designer6:amd64 (6.10.2-1) ...
+Konfigurowanie pakietu elisa (25.12.3-0ubuntu1) ...
+Konfigurowanie pakietu libshumate-common (1.6~beta-1) ...
+Konfigurowanie pakietu libkf6service-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6kio-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6completion-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qml6-module-org-kde-layershell:amd64 (6.6.4-0ubuntu1) ...
+Konfigurowanie pakietu libprotobuf-c1:amd64 (1.5.1-1ubuntu2) ...
+Konfigurowanie pakietu libiniparser4:amd64 (4.2.6-1build1) ...
+Konfigurowanie pakietu qml6-module-qt-labs-settings:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu qml6-module-qt-labs-animation:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libkf6svg-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu gnome-terminal-data (3.58.0-1ubuntu1) ...
+Konfigurowanie pakietu libkf6guiaddons-doc (6.24.0-0ubuntu1.1) ...
+Konfigurowanie pakietu libkf6doctools-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6config-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6package-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libqt6quickshapesdesignhelpers6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu linguist-qt6 (6.10.2-1) ...
+Konfigurowanie pakietu qml6-module-qtqml-xmllistmodel:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libshumate-1.0-1:amd64 (1.6~beta-1) ...
+Konfigurowanie pakietu libcfitsio10t64:amd64 (4.6.3-1) ...
+Konfigurowanie pakietu libplasma-doc (6.6.6-0ubuntu0.1) ...
+Konfigurowanie pakietu qml6-module-qtquick-localstorage:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libqt6quicktest6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libkimageannotator-common (0.7.2-2) ...
+Konfigurowanie pakietu libqt6quickvectorimagegenerator6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu qml6-module-qtquick-shapes-designhelpers:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu gir1.2-xdp-1.0:amd64 (0.9.1-2build1) ...
+Konfigurowanie pakietu qml6-module-qt-labs-sharedimage:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu qml6-module-org-kde-i18n-localedata:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qml6-module-qtwayland-client-texturesharing:amd64 (6.10.2-4) ...
+Konfigurowanie pakietu libqt6waylandcompositorpresentationtime6:amd64 (6.10.2-4) ...
+Konfigurowanie pakietu libqt6svgwidgets6:amd64 (6.10.2-2) ...
+Konfigurowanie pakietu libkirigami-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libqt6waylandcompositoriviapplication6:amd64 (6.10.2-4) ...
+Konfigurowanie pakietu qmake6-bin (6.10.2+dfsg-7) ...
+Konfigurowanie pakietu sassc (3.6.1+20201027-2build1) ...
+Konfigurowanie pakietu libqt6waylandcompositorwlshell6:amd64 (6.10.2-4) ...
+Konfigurowanie pakietu qml6-module-org-kde-ki18n:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libyyjson0:amd64 (0.12.0+ds-1) ...
+Konfigurowanie pakietu libkf6iconthemes-doc (6.24.0-0ubuntu2) ...
+Konfigurowanie pakietu gwenview-doc (4:25.12.3-0ubuntu1) ...
+Konfigurowanie pakietu qt6-shader-baker (6.10.2-1) ...
+Konfigurowanie pakietu libkf6notifications-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6widgetsaddons-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qml6-module-qtquick-vectorimage-helpers:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libboost1.90-dev:amd64 (1.90.0-6ubuntu1) ...
+Konfigurowanie pakietu libqt6waylandcompositorxdgshell6:amd64 (6.10.2-4) ...
+Konfigurowanie pakietu libqt6qmlnetwork6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu gir1.2-json-1.0:amd64 (1.10.8+ds-2) ...
+Konfigurowanie pakietu qml6-module-qmltime:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libboost-dev:amd64 (1.90.0.1ubuntu3) ...
+Konfigurowanie pakietu libplasmaactivitiesstats-doc (6.6.4-0ubuntu1) ...
+Konfigurowanie pakietu libkf6globalaccel-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu assistant-qt6 (6.10.2-1) ...
+Konfigurowanie pakietu libqt6qmlcompiler6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu zsh (5.9-8ubuntu3) ...
+Konfigurowanie pakietu fonts-weather-icons (2.0.12-2) ...
+Konfigurowanie pakietu qt6-qmltooling-plugins:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libspa-0.2-dev:amd64 (1.6.2-1ubuntu1.2) ...
+Konfigurowanie pakietu gir1.2-geocodeglib-2.0:amd64 (3.26.4-3) ...
+Konfigurowanie pakietu libkf6itemmodels-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkcolorpicker-qt6-0:amd64 (0.3.1-3) ...
+Konfigurowanie pakietu fonts-font-awesome (5.0.10+really4.7.0~dfsg-4.1build1) ...
+Konfigurowanie pakietu libkf6runner-doc (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu gir1.2-rest-1.0:amd64 (0.10.2-1) ...
+Konfigurowanie pakietu samba (2:4.23.6+dfsg-1ubuntu2.2) ...
+Created symlink '/etc/systemd/system/smb.service' → '/usr/lib/systemd/system/smbd.service'.
+Created symlink '/etc/systemd/system/multi-user.target.wants/smbd.service' → '/usr/lib/systemd/system/smbd.service'.
+Created symlink '/etc/systemd/system/nmb.service' → '/usr/lib/systemd/system/nmbd.service'.
+Created symlink '/etc/systemd/system/multi-user.target.wants/nmbd.service' → '/usr/lib/systemd/system/nmbd.service'.
+Konfigurowanie pakietu libkimageannotator-qt6-0:amd64 (0.7.2-2) ...
+Konfigurowanie pakietu qt-style-kvantum-themes (1.1.5-1) ...
+Konfigurowanie pakietu fastfetch (2.57.1+dfsg-1ubuntu1) ...
+Konfigurowanie pakietu gnome-terminal (3.58.0-1ubuntu1) ...
+Konfigurowanie pakietu libqt6quickvectorimage6:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu qml6-module-qtwayland-compositor:amd64 (6.10.2-4) ...
+Konfigurowanie pakietu cava (0.10.7+dfsg-1) ...
+Konfigurowanie pakietu libqt6designercomponents6:amd64 (6.10.2-1) ...
+Konfigurowanie pakietu qt6-documentation-tools (6.10.2-1) ...
+Konfigurowanie pakietu qt6-wayland-dev:amd64 (6.10.2-4) ...
+Konfigurowanie pakietu gir1.2-shumate-1.0:amd64 (1.6~beta-1) ...
+Konfigurowanie pakietu qml6-module-qttest:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu qmake6:amd64 (6.10.2+dfsg-7) ...
+Konfigurowanie pakietu qt6-base-dev:amd64 (6.10.2+dfsg-7) ...
+Konfigurowanie pakietu qt6-declarative-dev-tools (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libappstreamqt-dev:amd64 (1.1.2-1) ...
+Konfigurowanie pakietu qml6-module-qtnetwork:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu designer-qt6 (6.10.2-1) ...
+Konfigurowanie pakietu nautilus-share (0.7.5-1) ...
+Konfigurowanie pakietu qt6-svg-dev:amd64 (6.10.2-2) ...
+Konfigurowanie pakietu libplasmaactivitiesstats-dev:amd64 (6.6.4-0ubuntu1) ...
+Konfigurowanie pakietu libkf6codecs-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu gwenview (4:25.12.3-0ubuntu1) ...
+Konfigurowanie pakietu libpipewire-0.3-dev:amd64 (1.6.2-1ubuntu1.2) ...
+Konfigurowanie pakietu qt6-qmlls-plugins:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu qt-style-kvantum (1.1.5-1) ...
+Konfigurowanie pakietu qt5-style-kvantum (1.1.5-1) ...
+Konfigurowanie pakietu libkf6itemviews-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qt6-qmllint-plugins:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu liblayershellqtinterface-dev (6.6.4-0ubuntu1) ...
+Konfigurowanie pakietu qt6-tools-dev-tools (6.10.2-1) ...
+Konfigurowanie pakietu qt6-style-kvantum (1.1.5-1) ...
+Konfigurowanie pakietu libkf6coreaddons-dev:amd64 (6.24.0-0ubuntu1.1) ...
+Konfigurowanie pakietu libkf6colorscheme-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6globalaccel-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qml6-module-qtquick-vectorimage:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu libkf6widgetsaddons-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu gnome-maps (49.3-1) ...
+Konfigurowanie pakietu libkf6itemmodels-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qt6-base-private-dev:amd64 (6.10.2+dfsg-7) ...
+Konfigurowanie pakietu libkf6solid-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6archive-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu qt6-declarative-dev:amd64 (6.10.2+dfsg-3) ...
+Konfigurowanie pakietu qt6-tools-dev:amd64 (6.10.2-1) ...
+Konfigurowanie pakietu libkf6guiaddons-dev (6.24.0-0ubuntu1.1) ...
+Konfigurowanie pakietu libkf6config-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6runner-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6package-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6i18n-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkirigami-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6notifications-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6doctools-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6svg-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6configwidgets-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libplasmaactivities-dev (6.6.4-0ubuntu1) ...
+Konfigurowanie pakietu libkf6windowsystem-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6iconthemes-dev (6.24.0-0ubuntu2) ...
+Konfigurowanie pakietu libkf6jobwidgets-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6completion-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6service-dev:amd64 (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libkf6bookmarks-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu libplasma-dev (6.6.6-0ubuntu0.1) ...
+Konfigurowanie pakietu libkf6kio-dev (6.24.0-0ubuntu1) ...
+Konfigurowanie pakietu plasma-workspace-dev (4:6.6.6-0ubuntu0.1) ...
+Przetwarzanie wyzwalaczy pakietu desktop-file-utils (0.28-1build1)...
+Przetwarzanie wyzwalaczy pakietu hicolor-icon-theme (0.18-2build1)...
+Przetwarzanie wyzwalaczy pakietu gnome-menus (3.38.1-1ubuntu1)...
+Przetwarzanie wyzwalaczy pakietu libc-bin (2.43-2ubuntu2.4)...
+Przetwarzanie wyzwalaczy pakietu ufw (0.36.2-9build1)...
+WARN: uid wynosi 0, ale '/lib' należy do 1000
+WARN: uid wynosi 0, ale '/usr' należy do 1000
+Przetwarzanie wyzwalaczy pakietu man-db (2.13.1-1build1)...
+Przetwarzanie wyzwalaczy pakietu libglib2.0-0t64:amd64 (2.88.0-1ubuntu0.1)...
+Przetwarzanie wyzwalaczy pakietu debianutils (5.23.2build1)...
+Przetwarzanie wyzwalaczy pakietu elx-fonts (1.0.2-ubuntu26)...
+running elx-fonts postinst
+Przetwarzanie wyzwalaczy pakietu fontconfig (2.17.1-3ubuntu1)...
+Czytanie list pakietów... Gotowe
+Budowanie drzewa zależności... Gotowe
+Odczyt informacji o stanie... Gotowe   
+kpackagetool6 jest już w najnowszej wersji (6.24.0-0ubuntu1).
+kpackagetool6 oznaczono jako zainstalowany ręcznie.
+libkf6package6 jest już w najnowszej wersji (6.24.0-0ubuntu1).
+libkf6package6 oznaczono jako zainstalowany ręcznie.
+libkf6package-dev jest już w najnowszej wersji (6.24.0-0ubuntu1).
+libkf6package-dev oznaczono jako zainstalowany ręcznie.
+Rozwiązywanie zależności:... Gotowe
+Następujące pakiety zostały zainstalowane automatycznie i nie są już więcej wymagane:
+  linux-image-7.0.0-34-generic linux-main-modules-zfs-7.0.0-34-generic linux-modules-7.0.0-34-generic linux-tools-7.0.0-34 linux-tools-7.0.0-34-generic
+Aby je usunąć należy użyć "sudo apt autoremove".
+0 aktualizowanych, 0 nowo instalowanych, 0 usuwanych i 0 nieaktualizowanych.
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0
+100  1.30M 100  1.30M   0      0 726.7k      0   00:01   00:01         733.3k
+/tmp/tmp.dAUwvUDuXW/darkly-0.5.42_kubuntu-26.04_amd64.deb: OK
+Czytanie list pakietów... Gotowe
+Budowanie drzewa zależności... Gotowe
+Odczyt informacji o stanie... Gotowe   
+Uwaga, wybieranie "darkly" zamiast "/tmp/tmp.dAUwvUDuXW/darkly-0.5.42_kubuntu-26.04_amd64.deb"
+Rozwiązywanie zależności:... Gotowe
+Następujące pakiety zostały zainstalowane automatycznie i nie są już więcej wymagane:
+  linux-image-7.0.0-34-generic linux-main-modules-zfs-7.0.0-34-generic linux-modules-7.0.0-34-generic linux-tools-7.0.0-34 linux-tools-7.0.0-34-generic
+Aby je usunąć należy użyć "sudo apt autoremove".
+Zostaną zainstalowane następujące NOWE pakiety:
+  darkly
+0 aktualizowanych, 1 nowo instalowanych, 0 usuwanych i 0 nieaktualizowanych.
+Konieczne pobranie 0 B/1 365 kB archiwów.
+Po tej operacji zostanie dodatkowo użyte 6 009 kB miejsca na dysku.
+Pobr:1 /tmp/tmp.dAUwvUDuXW/darkly-0.5.42_kubuntu-26.04_amd64.deb darkly amd64 0.5.42 [1 365 kB]
+Wybieranie wcześniej niewybranego pakietu darkly.
+(Odczytywanie bazy danych ... 503402 pliki i katalogi obecnie zainstalowane.)
+Przygotowywanie do rozpakowania pakietu .../darkly-0.5.42_kubuntu-26.04_amd64.deb ...
+Rozpakowywanie pakietu darkly (0.5.42) ...
+Konfigurowanie pakietu darkly (0.5.42) ...
+Przetwarzanie wyzwalaczy pakietu hicolor-icon-theme (0.18-2build1)...
+Przetwarzanie wyzwalaczy pakietu gnome-menus (3.38.1-1ubuntu1)...
+Przetwarzanie wyzwalaczy pakietu desktop-file-utils (0.28-1build1)...
+N: Pobieranie ma miejsce poza piaskownicą, jako root, ponieważ plik "/tmp/tmp.dAUwvUDuXW/darkly-0.5.42_kubuntu-26.04_amd64.deb" nie jest dostępny dla użytkownika "_apt". - pkgAcquire::Run (13: Brak dostępu)
+Klonowanie do „/tmp/tmp.dAUwvUDuXW/plasma6-applet-appgrid”...
+remote: Enumerating objects: 355, done.
+remote: Counting objects: 100% (355/355), done.
+remote: Compressing objects: 100% (284/284), done.
+remote: Total 355 (delta 51), reused 203 (delta 35), pack-reused 0 (from 0)
+Pobieranie obiektów: 100% (355/355), 1.38 MiB | 4.91 MiB/s, gotowe.
+Rozwiązywanie delt: 100% (51/51), gotowe.
+warning: refs/tags/v1.9.6 c026ffd800305c19f18a9072d31448e474b002c5 nie jest zapisem!
+Uwaga: przełączanie na „1ae7bc48bc9c876a3738d357729282f45c93b5cf”.
+
+Jesteś w stanie „odłączonego HEAD”. Możesz się rozglądać, tworzyć
+eksperymentalne zmiany i je składać, i możesz odrzucić wszystkie zapisy,
+które złożysz w tym stanie, bez wpływu na żadną gałąź, przełączając z powrotem na jakąś gałąź.
+
+Jeśli chcesz utworzyć nową gałąź, która zachowa zapisy, które złożysz,
+możesz to zrobić (teraz lub później) używając -c w ponownym poleceniu przełączenia.
+Przykład:
+
+  git switch -c <nazwa-nowej-gałęzi>
+
+Lub cofnąć tę operację przez:
+
+  git switch -
+
+Wyłącz tę poradę ustawiając zmienną konfiguracji advice.detachedHead na false
+
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Installing in the same prefix as Qt, adopting their path scheme.
+-- Looking for __GLIBC__
+-- Looking for __GLIBC__ - found
+-- Performing Test _OFFT_IS_64BIT
+-- Performing Test _OFFT_IS_64BIT - Success
+-- Performing Test HAVE_DATE_TIME
+-- Performing Test HAVE_DATE_TIME - Success
+-- AppGrid version string: 1.9.6
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+-- Found WrapOpenGL: TRUE
+-- Found WrapVulkanHeaders: /usr/include
+-- Found KF6Config: /usr/lib/x86_64-linux-gnu/cmake/KF6Config/KF6ConfigConfig.cmake (found version "6.24.0")
+-- Found KF6CoreAddons: /usr/lib/x86_64-linux-gnu/cmake/KF6CoreAddons/KF6CoreAddonsConfig.cmake (found version "6.24.0")
+-- Found KF6GlobalAccel: /usr/lib/x86_64-linux-gnu/cmake/KF6GlobalAccel/KF6GlobalAccelConfig.cmake (found version "6.24.0")
+-- Found Gettext: /usr/bin/msgmerge (found version "0.23.2")
+-- Found KF6I18n: /usr/lib/x86_64-linux-gnu/cmake/KF6I18n/KF6I18nConfig.cmake (found version "6.24.0")
+-- Found KF6IconThemes: /usr/lib/x86_64-linux-gnu/cmake/KF6IconThemes/KF6IconThemesConfig.cmake (found version "6.24.0")
+-- Found X11: /usr/include
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- Found KF6KIO: /usr/lib/x86_64-linux-gnu/cmake/KF6KIO/KF6KIOConfig.cmake (found version "6.24.0")
+-- Found KF6Runner: /usr/lib/x86_64-linux-gnu/cmake/KF6Runner/KF6RunnerConfig.cmake (found version "6.24.0")
+-- Found KF6Service: /usr/lib/x86_64-linux-gnu/cmake/KF6Service/KF6ServiceConfig.cmake (found version "6.24.0")
+-- Found KF6Svg: /usr/lib/x86_64-linux-gnu/cmake/KF6Svg/KF6SvgConfig.cmake (found version "6.24.0")
+-- Found KF6WindowSystem: /usr/lib/x86_64-linux-gnu/cmake/KF6WindowSystem/KF6WindowSystemConfig.cmake (found version "6.24.0")
+-- Found KF6: success (found suitable version "6.24.0", minimum required is "6.0") found components: Config CoreAddons GlobalAccel I18n IconThemes KIO Runner Service Svg WindowSystem
+-- AppGrid ENABLE_X11=ON
+-- The following OPTIONAL packages have been found:
+
+ * Git
+ * OpenGL
+ * Vulkan
+ * Qt6DBusTools (required version >= 6.10.2)
+ * Qt6WidgetsTools (required version >= 6.10.2)
+ * WrapVulkanHeaders
+ * Qt6GuiTools (required version >= 6.10.2)
+ * Freetype
+ * PkgConfig
+ * Fontconfig
+ * Qt6QmlTools (required version >= 6.10.2)
+ * Qt6QuickTools (required version >= 6.10.2)
+ * Qt6CoreTools (required version >= 6.10.2)
+
+-- The following REQUIRED packages have been found:
+
+ * ECM (required version >= 6.0)
+ * KF6GlobalAccel (required version >= 6.0)
+ * Gettext
+ * KF6I18n (required version >= 6.0)
+ * KF6IconThemes (required version >= 6.0)
+ * KF6Config (required version >= 6.24.0)
+ * KF6KIO (required version >= 6.0)
+ * Qt6 (required version >= 6.8.0)
+ * KF6Runner (required version >= 6.0)
+ * KF6Service (required version >= 6.0)
+ * KF6Svg (required version >= 6.0)
+ * KF6 (required version >= 6.0)
+ * LayerShellQt
+ * Qt6Quick
+ * Plasma
+ * PlasmaQuick (required version >= 6.0)
+ * PlasmaActivities
+ * PlasmaActivitiesStats
+ * AppStreamQt
+
+-- The following OPTIONAL packages have not been found:
+
+ * Qt6QmlCompilerPlusPrivateTools (required version >= 6.10.2)
+
+-- Configuring done (1.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: /tmp/tmp.dAUwvUDuXW/appgrid-build
+[  2%] Built target dev.xarbit.appgrid_autogen_timestamp_deps
+[  2%] Generating mo...
+[  4%] Built target dev.xarbit.appgrid.panel_autogen_timestamp_deps
+[  4%] Generating ts...
+[  6%] Automatic MOC for target dev.xarbit.appgrid
+[  8%] Automatic MOC for target dev.xarbit.appgrid.panel
+[  8%] Built target tsfiles-7ed3f905f45160d122d92b1e429c5823
+[  8%] Built target pofiles-7ed3f905f45160d122d92b1e429c5823
+[  8%] Built target dev.xarbit.appgrid_autogen
+[ 10%] Running rcc for resource dev_xarbit_appgrid_qml
+[ 10%] Built target dev.xarbit.appgrid.panel_autogen
+[ 12%] Running rcc for resource dev_xarbit_appgrid_panel_qml
+[ 17%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/appgridplugin.cpp.o
+[ 17%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/dev.xarbit.appgrid_autogen/mocs_compilation.cpp.o
+[ 19%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/appgridplugin_register.cpp.o
+[ 21%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/appfiltermodel.cpp.o
+[ 23%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/appmodel.cpp.o
+[ 25%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/appmodelassembly.cpp.o
+[ 27%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/appstreamresolver.cpp.o
+[ 29%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/dev.xarbit.appgrid.panel_autogen/mocs_compilation.cpp.o
+[ 31%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/appgridpanelplugin.cpp.o
+[ 34%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/popupsizepolicy.cpp.o
+[ 36%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/appgridplugin.cpp.o
+[ 38%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/appstreamresolver.cpp.o
+[ 40%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/defaultappsresolver.cpp.o
+[ 42%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/categorymapping.cpp.o
+[ 44%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/appmodel.cpp.o
+[ 46%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/appmodelassembly.cpp.o
+[ 48%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/appfiltermodel.cpp.o
+[ 51%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/discoverbackends.cpp.o
+[ 53%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/defaultappsresolver.cpp.o
+[ 55%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/categorymapping.cpp.o
+[ 57%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/discoverbackends.cpp.o
+[ 59%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/pluginhelpers.cpp.o
+[ 61%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/serviceaction.cpp.o
+[ 63%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/searchranking.cpp.o
+[ 65%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/launchbookkeeping.cpp.o
+[ 68%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/pluginhelpers.cpp.o
+[ 70%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/runnerfiltermodel.cpp.o
+[ 72%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/unifiedsearchmodel.cpp.o
+[ 74%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/frecencyprovider.cpp.o
+[ 76%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/src/frecencyscoring.cpp.o
+[ 78%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/serviceaction.cpp.o
+[ 80%] Building CXX object CMakeFiles/dev.xarbit.appgrid.dir/.qt/rcc/qrc_dev_xarbit_appgrid_qml.cpp.o
+[ 82%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/searchranking.cpp.o
+[ 85%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/launchbookkeeping.cpp.o
+[ 87%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/runnerfiltermodel.cpp.o
+[ 89%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/unifiedsearchmodel.cpp.o
+[ 91%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/frecencyprovider.cpp.o
+[ 93%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/src/frecencyscoring.cpp.o
+[ 95%] Building CXX object CMakeFiles/dev.xarbit.appgrid.panel.dir/.qt/rcc/qrc_dev_xarbit_appgrid_panel_qml.cpp.o
+[ 97%] Linking CXX shared library bin/plasma/applets/dev.xarbit.appgrid.so
+[ 97%] Built target dev.xarbit.appgrid
+[100%] Linking CXX shared library bin/plasma/applets/dev.xarbit.appgrid.panel.so
+[100%] Built target dev.xarbit.appgrid.panel
+-- Install configuration: "Release"
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/applets/dev.xarbit.appgrid.so
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/lib/x86_64-linux-gnu/qt6/plugins/plasma/applets/dev.xarbit.appgrid.panel.so
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/zh_TW
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/zh_TW/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/zh_TW/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/uk
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/uk/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/uk/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/tr
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/tr/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/tr/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sv
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sv/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sv/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sr
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sr/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sr/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sq
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sq/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sq/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sl
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sl/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sl/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sk
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sk/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/sk/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ru
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ru/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ru/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ro
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ro/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ro/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/pt
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/pt/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/pt/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/pl
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/pl/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/pl/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/nl
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/nl/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/nl/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/nb
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/nb/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/nb/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/mk
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/mk/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/mk/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/lv
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/lv/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/lv/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/lt
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/lt/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/lt/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/it
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/it/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/it/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/hu
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/hu/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/hu/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/hr
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/hr/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/hr/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ga
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ga/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/ga/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/fr
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/fr/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/fr/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/fi
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/fi/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/fi/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/et
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/et/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/et/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/es
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/es/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/es/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/el
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/el/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/el/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/de
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/de/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/de/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/da
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/da/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/da/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/cs
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/cs/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/cs/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/bs
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/bs/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/bs/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/bg
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/bg/LC_MESSAGES
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/locale/bg/LC_MESSAGES/dev.xarbit.appgrid.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/metainfo/dev.xarbit.appgrid.metainfo.xml
+-- Installing: /tmp/tmp.dAUwvUDuXW/appgrid-stage/usr/share/icons/hicolor/scalable/apps/dev.xarbit.appgrid.svg
+Zainicjowano puste repozytorium Gita w /tmp/tmp.dAUwvUDuXW/punchi-source/.git/
+remote: Enumerating objects: 797, done.
+remote: Counting objects: 100% (797/797), done.
+remote: Compressing objects: 100% (703/703), done.
+remote: Total 797 (delta 60), reused 504 (delta 29), pack-reused 0 (from 0)
+Pobieranie obiektów: 100% (797/797), 23.57 MiB | 9.40 MiB/s, gotowe.
+Rozwiązywanie delt: 100% (60/60), gotowe.
+Z https://github.com/PunchiSoft/punchi-dock-remastered
+ * branch            84c42df2462a411103b0bb53055d4a9a62a8fbb2 -> FETCH_HEAD
+HEAD wskazuje teraz na 84c42df Merge pull request #49 from PunchiSoft/docs/issue-templates
+-- The CXX compiler identification is GNU 15.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Installing in the same prefix as Qt, adopting their path scheme.
+-- Looking for __GLIBC__
+-- Looking for __GLIBC__ - found
+-- Performing Test _OFFT_IS_64BIT
+-- Performing Test _OFFT_IS_64BIT - Success
+-- Performing Test HAVE_DATE_TIME
+-- Performing Test HAVE_DATE_TIME - Success
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+-- Found WrapOpenGL: TRUE
+-- Found WrapVulkanHeaders: /usr/include
+-- Found KF6Config: /usr/lib/x86_64-linux-gnu/cmake/KF6Config/KF6ConfigConfig.cmake (found version "6.24.0")
+-- Found KF6CoreAddons: /usr/lib/x86_64-linux-gnu/cmake/KF6CoreAddons/KF6CoreAddonsConfig.cmake (found version "6.24.0")
+-- Found KF6GlobalAccel: /usr/lib/x86_64-linux-gnu/cmake/KF6GlobalAccel/KF6GlobalAccelConfig.cmake (found version "6.24.0")
+-- Found Gettext: /usr/bin/msgmerge (found version "0.23.2")
+-- Found KF6I18n: /usr/lib/x86_64-linux-gnu/cmake/KF6I18n/KF6I18nConfig.cmake (found version "6.24.0")
+-- Found KF6JobWidgets: /usr/lib/x86_64-linux-gnu/cmake/KF6JobWidgets/KF6JobWidgetsConfig.cmake (found version "6.24.0")
+-- Found X11: /usr/include
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+-- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for IceConnectionNumber in ICE
+-- Looking for IceConnectionNumber in ICE - found
+-- Found KF6KIO: /usr/lib/x86_64-linux-gnu/cmake/KF6KIO/KF6KIOConfig.cmake (found version "6.24.0")
+-- Found KF6Package: /usr/lib/x86_64-linux-gnu/cmake/KF6Package/KF6PackageConfig.cmake (found version "6.24.0")
+-- Found KF6Service: /usr/lib/x86_64-linux-gnu/cmake/KF6Service/KF6ServiceConfig.cmake (found version "6.24.0")
+-- Found KF6WindowSystem: /usr/lib/x86_64-linux-gnu/cmake/KF6WindowSystem/KF6WindowSystemConfig.cmake (found version "6.24.0")
+-- Found KF6: success (found suitable version "6.24.0", minimum required is "6.0") found components: Config CoreAddons GlobalAccel I18n JobWidgets KIO Package Service WindowSystem
+-- Found PkgConfig: /usr/bin/pkg-config (found version "2.5.1")
+-- AppStreamQt found: enabling the application management action
+-- Checking for module 'libpipewire-0.3'
+--   Found libpipewire-0.3, version 1.6.2
+-- Configuring done (2.0s)
+-- Generating done (0.1s)
+-- Build files have been written to: /tmp/tmp.dAUwvUDuXW/punchi-build
+[  3%] Copying punchidockintegration qml resources into build dir
+[  3%] Compiling de translation catalog
+[  3%] Built target punchidockintegration_copy_res
+[  6%] Populating .qmlls.ini file at /tmp/tmp.dAUwvUDuXW/punchi-build/.qt/.qmlls.build.ini
+[  6%] Compiling es translation catalog
+[  7%] Compiling pt_BR translation catalog
+[  7%] Built target punchi_translations
+[  7%] Built target generate_qmlls_build_ini_file
+[  9%] Copying punchidockintegration qml sources into build dir
+[  9%] Built target punchidockintegration_copy_qml
+[  9%] Built target punchidockintegration_autogen_timestamp_deps
+[ 10%] Automatic MOC for target punchidockintegration
+[ 10%] Built target punchidockintegration_autogen
+[ 13%] Baking PunchiMenu avatar shader
+[ 13%] Running AUTOMOC file extraction for target punchidockintegration
+[ 15%] Running rcc for resource qmake_org_punchi_dock
+[ 16%] Baking rounded image shader
+[ 18%] Running moc --collect-json for target punchidockintegration
+[ 19%] Running rcc for resource rounded_image_shader
+[ 21%] Running rcc for resource punchimenu_avatar_shader
+[ 22%] Generating meta_types/qt6punchidockintegration_metatypes.json
+[ 24%] Automatic QML type registration for target punchidockintegration
+[ 25%] Building CXX object src/CMakeFiles/punchidockintegration.dir/punchidockintegration_qmltyperegistrations.cpp.o
+[ 27%] Building CXX object src/CMakeFiles/punchidockintegration.dir/punchidockintegration_autogen/mocs_compilation.cpp.o
+[ 28%] Building CXX object src/CMakeFiles/punchidockintegration.dir/.qt/rcc/qrc_qmake_org_punchi_dock.cpp.o
+[ 30%] Building CXX object src/CMakeFiles/punchidockintegration.dir/applicationcategoryclassifier.cpp.o
+[ 31%] Building CXX object src/CMakeFiles/punchidockintegration.dir/audiospectrumcontroller.cpp.o
+[ 33%] Building CXX object src/CMakeFiles/punchidockintegration.dir/blurbehindcontroller.cpp.o
+[ 34%] Building CXX object src/CMakeFiles/punchidockintegration.dir/commandclassification.cpp.o
+[ 36%] Building CXX object src/CMakeFiles/punchidockintegration.dir/controlcenternightlightadapter.cpp.o
+[ 37%] Building CXX object src/CMakeFiles/punchidockintegration.dir/controlcenterthemeadapter.cpp.o
+[ 39%] Building CXX object src/CMakeFiles/punchidockintegration.dir/controlcentervolumeosdadapter.cpp.o
+[ 40%] Building CXX object src/CMakeFiles/punchidockintegration.dir/desktopshortcutwriter.cpp.o
+[ 42%] Building CXX object src/CMakeFiles/punchidockintegration.dir/desktoplauncherresolver.cpp.o
+[ 43%] Building CXX object src/CMakeFiles/punchidockintegration.dir/decorationbuttonprovider.cpp.o
+[ 45%] Building CXX object src/CMakeFiles/punchidockintegration.dir/dockthemeremoval.cpp.o
+[ 46%] Building CXX object src/CMakeFiles/punchidockintegration.dir/dockthemerepository.cpp.o
+[ 48%] Building CXX object src/CMakeFiles/punchidockintegration.dir/dockthemevalidator.cpp.o
+[ 50%] Building CXX object src/CMakeFiles/punchidockintegration.dir/dockitemsjsontransaction.cpp.o
+[ 51%] Building CXX object src/CMakeFiles/punchidockintegration.dir/dockitemspersistenceadapter.cpp.o
+[ 53%] Building CXX object src/CMakeFiles/punchidockintegration.dir/dockruntimeservice.cpp.o
+[ 54%] Building CXX object src/CMakeFiles/punchidockintegration.dir/dropurlpolicy.cpp.o
+[ 56%] Building CXX object src/CMakeFiles/punchidockintegration.dir/foldernavigationmodel.cpp.o
+[ 57%] Building CXX object src/CMakeFiles/punchidockintegration.dir/mediaartworkresolver.cpp.o
+[ 59%] Building CXX object src/CMakeFiles/punchidockintegration.dir/launcherdragcontroller.cpp.o
+[ 60%] Building CXX object src/CMakeFiles/punchidockintegration.dir/mpriscontroller.cpp.o
+[ 62%] Building CXX object src/CMakeFiles/punchidockintegration.dir/mprisplayerselection.cpp.o
+[ 63%] Building CXX object src/CMakeFiles/punchidockintegration.dir/panellengthmodebridge.cpp.o
+[ 65%] Building CXX object src/CMakeFiles/punchidockintegration.dir/panelinputregionsynchronizer.cpp.o
+[ 66%] Building CXX object src/CMakeFiles/punchidockintegration.dir/panelrevealadapter.cpp.o
+[ 68%] Building CXX object src/CMakeFiles/punchidockintegration.dir/panelthemesurface.cpp.o
+[ 69%] Building CXX object src/CMakeFiles/punchidockintegration.dir/pipewireaudiobackend.cpp.o
+[ 71%] Building CXX object src/CMakeFiles/punchidockintegration.dir/punchimenulayoutcontroller.cpp.o
+[ 72%] Building CXX object src/CMakeFiles/punchidockintegration.dir/punchimenulayoutdocument.cpp.o
+[ 74%] Building CXX object src/CMakeFiles/punchidockintegration.dir/punchimenulayoutmodel.cpp.o
+[ 75%] Building CXX object src/CMakeFiles/punchidockintegration.dir/punchimenushortcutcontroller.cpp.o
+[ 77%] Building CXX object src/CMakeFiles/punchidockintegration.dir/popupappearancedefaults.cpp.o
+[ 78%] Building CXX object src/CMakeFiles/punchidockintegration.dir/recentapplicationsmodel.cpp.o
+[ 80%] Building CXX object src/CMakeFiles/punchidockintegration.dir/recentapplicationsadapter.cpp.o
+[ 81%] Building CXX object src/CMakeFiles/punchidockintegration.dir/sessionactionscontroller.cpp.o
+[ 83%] Building CXX object src/CMakeFiles/punchidockintegration.dir/spectrumanalyzer.cpp.o
+[ 84%] Building CXX object src/CMakeFiles/punchidockintegration.dir/systemdiscovery.cpp.o
+[ 86%] Building CXX object src/CMakeFiles/punchidockintegration.dir/taskgeometryownershipbridge.cpp.o
+[ 87%] Building CXX object src/CMakeFiles/punchidockintegration.dir/themeintegration.cpp.o
+[ 89%] Building CXX object src/CMakeFiles/punchidockintegration.dir/trashintegration.cpp.o
+[ 90%] Building CXX object src/CMakeFiles/punchidockintegration.dir/.qt/rcc/qrc_punchimenu_avatar_shader.cpp.o
+[ 92%] Building CXX object src/CMakeFiles/punchidockintegration.dir/.qt/rcc/qrc_rounded_image_shader.cpp.o
+[ 93%] Linking CXX shared library ../bin/libpunchidockintegration.so
+[ 93%] Built target punchidockintegration
+[ 93%] Built target punchidockintegrationplugin_autogen_timestamp_deps
+[ 95%] Automatic MOC for target punchidockintegrationplugin
+[ 95%] Built target punchidockintegrationplugin_autogen
+[ 96%] Building CXX object src/CMakeFiles/punchidockintegrationplugin.dir/punchidockintegrationplugin_org_punchi_dockPlugin.cpp.o
+[ 98%] Building CXX object src/CMakeFiles/punchidockintegrationplugin.dir/punchidockintegrationplugin_autogen/mocs_compilation.cpp.o
+[100%] Linking CXX shared module ../bin/org/punchi/dock/libpunchidockintegrationplugin.so
+[100%] Built target punchidockintegrationplugin
+-- Install configuration: "Release"
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/metadata.json
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/LICENSE
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/main.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/TrashDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/TimedDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/RecentApplicationsSettings.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/PunchiMenuDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/PopupAnimationSettings.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/MediaPlayerDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/ControlCenterDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/ConfigLayoutMetrics.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/ColorModeControl.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/components/ActionDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/items.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/itemTypeCatalog.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/itemNotes.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/draftFormAdapter.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/configScripts.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/configItemsWorkflowHelper.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/configItemsStateHelper.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/configItemsFormHelper.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/configItemsController.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/code/configItems.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/TrashOptionsPanel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/TimedOptionsPanel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/SystemDiscoveryManager.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/SoundFileDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/SeparatorOptions.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/PunchiMenuOptionsPanel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/MediaPlayerOptionsPanel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ItemTypeSelector.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ItemEditorPanel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ItemDraftController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ItemConfigurationDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ItemActionEditor.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/FolderPathDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/DockItemListEditor.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ControlCenterOptionsPanel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigWindows.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigPopups.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigMouse.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigMenus.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigItemsMainView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigItems.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigGeneral.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigFolderPopups.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigFiles.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigFileToolbar.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigAudioVisualizer.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigAspect.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ConfigAdditionalShortcuts.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/ColorPaletteDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/config/AdvancedJsonEditor.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuUserAvatar.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuTextShadowLabel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuSettingsBase.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuSessionView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuSearchBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuOverlay.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuNormalSizeState.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuNormalSettingsView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuNormalPlacement.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuNormal.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuModalSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuMarqueeLabel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuMappedSurfaceGeometry.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuItemHighlight.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuIconMetrics.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFullScreenSettingsView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFullScreenComboBox.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFolderView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFolderTile.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFolderSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFolderActionView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFolderActionState.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuFolderActionContent.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuDragLayer.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuContextSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuCompactSettingsView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuCompactFlyout.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuCompact.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuCategorySectionsView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuCategoryPill.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuApplicationState.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/punchimenu/PunchiMenuActionBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterVolumeAdapter.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterShortcutTile.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterRightRail.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterRevealMetrics.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterQuickActionButton.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterPageSlot.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterPageHeader.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterOverlay.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterNotificationDelegate.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterNightLightStrength.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterNetworkSubmenu.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterNetworkPasswordSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterNetworkPage.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterNetworkDelegate.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterNetworkAdapter.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterLayoutMetrics.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterHoverReveal.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterHomePage.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterFloatingGeometry.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterExpandableSection.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterControlCard.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterBrightnessAdapter.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterBluetoothPage.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterBluetoothDelegate.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterBluetoothCompatibility.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterBluetoothAdapter.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterAudioPage.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterAudioItem.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/controlcenter/ControlCenterApplicationPlaceholderButton.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/X11WindowThumbnail.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/WindowPreviewSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/WindowPreviewCard.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/WindowPreviewActionButton.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/WindowLiveThumbnail.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/WindowIntersectionController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/WindowCountBadge.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TwoHopBounce.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TrashMenuPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TrashContextPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TrashConfirmationSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/ThemedSeparator.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskPopupSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskPopupPresentationController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskPopupAnchorProxy.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskOverflowPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskModelController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskManagerCompatibility.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskIndicator.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskDelegateGeometryPublisher.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskContextPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/TaskContextActions.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/ShelfThemeBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/ShapedThemeBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/RoundedImage.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/RecentApplicationsController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/RecentApplicationDockItem.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PunchiMenuFavoritesController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PunchiFullscreenBackdrop.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PopupSpacingMetrics.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PopupMarqueeLabel.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PopupCoordinator.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PopupAnimatedContent.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PopupAnchorMetrics.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/PanelFlatThemeBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/NotePopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/NativePopupSpacing.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/MprisReplacementCard.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/MinimizeItemReaction.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/MediaVolumeControl.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/MediaTransportControls.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/MediaDockItem.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/MediaControlsCard.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/InteractiveActionBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/IconReflection.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/GuardedPopupDialog.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/FolderPopupTail.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/FolderPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/FolderNavigationReveal.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/FolderNavigationController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/FolderFanView.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/FlatThemeBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DropFeedbackPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockTooltipBalloon.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockItemsController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockItemClickFeedback.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockItem.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockGeometryState.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockContextActionsController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockConfigurationState.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockClickCollision.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DockBackground.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DecorationCloseButton.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/DecorationButtonGlyph.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/ControlCenterController.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/ContextSurfaceStack.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/ConfirmTrashEmptyPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/CalendarPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/BalloonSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/BackgroundQuickActions.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/AudioSpectrumLayer.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/AppActionsPopup.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/components/AnimatedGradientSurface.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/images
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/images/punchi-dock-remastered.svg
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/config
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/config/main.xml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/config/config.qml
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/code
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/code/separatorAppearance.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/code/recentApplicationsPlacement.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/code/plasmaPanelSizing.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/code/logic.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/code/dockDropState.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/code/defaultItems.js
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/locale/de/LC_MESSAGES/plasma_applet_org.kde.plasma.punchi-dock-remastered.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/locale/es/LC_MESSAGES/plasma_applet_org.kde.plasma.punchi-dock-remastered.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/locale/pt_BR/LC_MESSAGES/plasma_applet_org.kde.plasma.punchi-dock-remastered.mo
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/org/punchi/dock/libpunchidockintegration.so
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/org/punchi/dock/libpunchidockintegrationplugin.so
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/org/punchi/dock/qmldir
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/org/punchi/dock/punchidockintegration.qmltypes
+-- Installing: /tmp/tmp.dAUwvUDuXW/punchi-stage/usr/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered/contents/ui/org/punchi/dock/kde-qmlmodule.version
+Wyszukiwanie wyników…
+Wymagane środowisko wykonawcze dla com.mattjakeman.ExtensionManager/x86_64/stable (runtime/org.gnome.Platform/x86_64/50) zostało odnalezione w repozytorium flathub
+Wymagane środowisko wykonawcze dla net.agalwood.Motrix/x86_64/stable (runtime/org.freedesktop.Platform/x86_64/25.08) zostało odnalezione w repozytorium flathub
+Wymagane środowisko wykonawcze dla io.bassi.Amberol/x86_64/stable (runtime/org.gnome.Platform/x86_64/51) zostało odnalezione w repozytorium flathub
+
+Uprawnienia io.bassi.Amberol:
+    ipc     fallback-x11     pulseaudio     wayland     dri     file access [1]
+
+    [1] xdg-music:ro
+
+Uprawnienia net.agalwood.Motrix:
+    ipc      network      fallback-x11      wayland      x11      dri      file access [1]     dbus access [2]
+
+    [1] home
+    [2] org.freedesktop.Notifications
+
+Uprawnienia com.mattjakeman.ExtensionManager:
+    ipc     network     fallback-x11     wayland     dri    dbus access [1]
+
+    [1] org.gnome.SessionManager, org.gnome.Shell.Extensions
+
+Uprawnienia com.github.KRTirtho.Spotube:
+    ipc                     network                 fallback-x11             pulseaudio                    wayland        dri
+    file access [1]         dbus access [2]         bus ownership [3]        system dbus access [4]
+
+    [1] xdg-documents, xdg-download, xdg-run/app/com.discordapp.Discord:create, xdg-run/pipewire-0:ro
+    [2] org.freedesktop.Notifications, org.freedesktop.secrets, org.kde.StatusNotifierWatcher
+    [3] org.mpris.MediaPlayer2.spotube.*
+    [4] org.freedesktop.Avahi.*
+
+Uprawnienia com.rafaelmardojai.Blanket:
+    ipc     fallback-x11     pulseaudio     wayland     x11     dri     bus ownership [1]
+
+    [1] org.mpris.MediaPlayer2.Blanket
+
+
+        Identyfikator                                        Gałąź                    Dz             Repozytorium             Pobieranie
+ 1. [✓] com.github.KRTirtho.Spotube.Locale                   stable                   i              flathub                    7,1 kB / 59,1 kB
+ 2. [✓] com.mattjakeman.ExtensionManager.Locale              stable                   i              flathub                    9,6 kB / 174,4 kB
+ 3. [✓] com.rafaelmardojai.Blanket.Locale                    stable                   i              flathub                    8,4 kB / 136,1 kB
+ 4. [✓] io.bassi.Amberol.Locale                              stable                   i              flathub                    9,2 kB / 175,2 kB
+ 5. [✓] net.agalwood.Motrix.Locale                           stable                   i              flathub                  363,6 kB / 7,4 MB
+ 6. [✓] org.freedesktop.Platform.GL.default                  25.08                    i              flathub                  146,9 MB / 147,9 MB
+ 7. [✓] org.freedesktop.Platform.GL.default                  25.08-extra              i              flathub                   28,2 MB / 148,0 MB
+ 8. [✓] org.freedesktop.Platform.GL.default                  26.08                    i              flathub                  149,4 MB / 150,5 MB
+ 9. [✓] org.freedesktop.Platform.GL.default                  26.08-extra              i              flathub                   28,9 MB / 150,5 MB
+10. [✓] org.freedesktop.Platform.Locale                      25.08                    i              flathub                    4,7 MB / 379,6 MB
+11. [✓] org.freedesktop.Platform.VAAPI.Intel                 25.08                    i              flathub                   14,1 MB / 14,3 MB
+12. [✓] org.freedesktop.Platform.VAAPI.Intel                 26.08                    i              flathub                   14,8 MB / 15,0 MB
+13. [✓] org.freedesktop.Platform.codecs-extra                25.08-extra              i              flathub                   14,4 MB / 14,6 MB
+14. [✓] org.freedesktop.Platform.codecs-extra                26.08-extra              i              flathub                   15,6 MB / 15,7 MB
+15. [✓] org.gnome.Platform.Locale                            50                       i              flathub                  210,9 kB / 386,5 MB
+16. [✓] org.gnome.Platform.Locale                            51                       i              flathub                  873,8 kB / 391,7 MB
+17. [✓] org.gtk.Gtk3theme.Breeze                             3.22                     i              flathub                  114,6 kB / 192,5 kB
+18. [✓] org.gnome.Platform                                   51                       i              flathub                  371,0 MB / 432,7 MB
+19. [✓] io.bassi.Amberol                                     stable                   i              flathub                    5,4 MB / 5,5 MB
+20. [✓] org.freedesktop.Platform                             25.08                    i              flathub                  179,9 MB / 260,1 MB
+21. [✓] net.agalwood.Motrix                                  stable                   i              flathub                   92,5 MB / 93,4 MB
+22. [✓] org.gnome.Platform                                   50                       i              flathub                  263,5 MB / 418,8 MB
+23. [✓] com.mattjakeman.ExtensionManager                     stable                   i              flathub                    1,3 MB / 1,4 MB
+24. [✓] com.github.KRTirtho.Spotube                          stable                   i              flathub                   40,1 MB / 42,7 MB
+25. [✓] com.rafaelmardojai.Blanket                           stable                   i              flathub                   17,9 MB / 18,0 MB
+
+Ukończono instalację.
+Firefox is already installed.
+Klonowanie do „/home/piotr.ludwiczak/git/kde_plasma_to_macos/sources/safarifox-theme”...
+remote: Enumerating objects: 257, done.
+remote: Counting objects: 100% (257/257), done.
+remote: Compressing objects: 100% (172/172), done.
+remote: Total 257 (delta 83), reused 255 (delta 83), pack-reused 0 (from 0)
+Pobieranie obiektów: 100% (257/257), 197.45 KiB | 1.88 MiB/s, gotowe.
+Rozwiązywanie delt: 100% (83/83), gotowe.
+
+[i] Installing SafariFox theme (variant: default)...
+
+[⚠] Firefox profile directory not found
+[⚠] Firefox (.config) profile directory not found
+[i] Librewolf not found, skipping...
+[i] Floorp not found, skipping...
+
+[✗] No supported browsers found or installation failed
+Error on line 277. Installation stopped.
+Error on line 277. Installation stopped.
+Error on line 1. Installation stopped.

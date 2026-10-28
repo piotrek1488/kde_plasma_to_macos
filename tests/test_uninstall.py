@@ -240,6 +240,7 @@ class UninstallerTests(unittest.TestCase):
         self.assertFalse((self.box.home / '.themes').exists())
         self.assertFalse((self.box.home / '.oh-my-zsh').exists())
         self.assertFalse((self.box.home / '.config/cava').exists())
+        self.assertFalse((self.box.home / '.config/punchi-dock').exists())
         self.assertFalse((self.box.home / '.local/share').exists())
 
 

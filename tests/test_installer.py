@@ -1,6 +1,8 @@
 """Offline installer tests. All system, network, and desktop actions are mocked."""
 
 import os
+import configparser
+import json
 from pathlib import Path
 import shutil
 import subprocess
@@ -22,6 +24,7 @@ class Sandbox:
         self.sources.mkdir(parents=True)
         shutil.copyfile(INSTALLER, self.project / 'install.sh')
         shutil.copyfile(PROJECT / 'uninstall.sh', self.project / 'uninstall.sh')
+        shutil.copytree(PROJECT / 'tests/fixtures', self.project / 'tests/fixtures')
         shutil.copytree(PROJECT / 'scripts', self.project / 'scripts', ignore=shutil.ignore_patterns('__pycache__'))
         for archive in (PROJECT / 'sources').glob('*.zip'):
             (self.sources / archive.name).symlink_to(archive)
@@ -206,8 +209,31 @@ class IntegrationTests(unittest.TestCase):
             self.assertTrue((self.box.home / path).exists(), path)
         layout = '.config/plasma-org.kde.plasma.desktop-appletsrc'
         with zipfile.ZipFile(PROJECT / 'sources/plasma6macos-kde-config.zip') as archive:
-            expected = archive.read('plasma6macos-kde-config/conf-kubuntu/plasma-org.kde.plasma.desktop-appletsrc')
-        self.assertEqual((self.box.home / layout).read_bytes(), expected)
+            expected = archive.read('plasma6macos-kde-config/plasma-org.kde.plasma.desktop-appletsrc')
+        original = configparser.ConfigParser(interpolation=None)
+        original.optionxform = str
+        original.read_string(expected.decode())
+        configured = configparser.ConfigParser(interpolation=None)
+        configured.optionxform = str
+        configured.read(self.box.home / layout)
+        dock_sections = [section for section in configured.sections()
+                         if configured[section].get('plugin') == 'org.kde.plasma.punchi-dock-remastered']
+        self.assertEqual(len(dock_sections), 1)
+        dock_section = dock_sections[0]
+        dock_id = dock_section.rsplit('][', 1)[-1]
+        self.assertFalse(configured.has_section('Containments][27'))
+        self.assertEqual(dict(configured['Containments][3']), dict(original['Containments][3']))
+        pins = json.loads((self.box.home / f'.config/punchi-dock/dock_items_{dock_id}.json').read_text())
+        self.assertEqual([p['storageId'] for p in pins], [
+            'org.gnome.Nautilus.desktop', 'org.kde.kcalc.desktop', 'org.kde.gwenview.desktop',
+            'org.kde.elisa.desktop', 'org.kde.kate.desktop', 'org.kde.discover.desktop',
+            'systemsettings.desktop'])
+        self.assertEqual(pins[2]['icon'], 'graphics-image-viewer')
+        self.assertNotIn('sudo\tapt-get remove', self.box.log())
+        dock = self.box.home / '.local/share/plasma/plasmoids/org.kde.plasma.punchi-dock-remastered'
+        self.assertTrue((dock / 'contents/ui/org/punchi/dock/libpunchidockintegrationplugin.so').exists())
+        self.assertTrue((dock / 'LICENSE').exists())
+        self.assertTrue((dock / 'NOTICE').exists())
         backups = list((self.box.home / '.local/state/kde-plasma-to-macos/backups').iterdir())
         self.assertEqual(len(backups), 1)
         backup = backups[0]
@@ -223,6 +249,7 @@ class IntegrationTests(unittest.TestCase):
         self.assertIn('systemctl\t--user stop plasma-plasmashell.service', log)
         self.assertIn('systemctl\t--user start plasma-plasmashell.service', log)
         self.assertIn('flatpak\t--user install', log)
+        self.assertIn('sudo\tapt-get install -y --no-remove kpackagetool6 libkf6package6 libkf6package-dev\n', log)
         system_copies = [line for line in log.splitlines() if line.startswith('sudo\trsync ')]
         self.assertEqual(len(system_copies), 3)
         self.assertTrue(all('--chown=root:root' in line for line in system_copies))

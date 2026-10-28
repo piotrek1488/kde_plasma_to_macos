@@ -6,8 +6,8 @@ if (( EUID == 0 )); then
 fi
 PROJECT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)
 cd "$PROJECT_DIR"
-for script in install.sh uninstall.sh scripts/*.sh tests/*.sh; do
+for script in install.sh uninstall.sh scripts/*.sh tests/*.sh tests/fixtures/*.sh; do
     bash -n "$script"
 done
-shellcheck -x install.sh uninstall.sh scripts/*.sh tests/*.sh
+shellcheck -x install.sh uninstall.sh scripts/*.sh tests/*.sh tests/fixtures/*.sh
 python3 -B -m unittest discover -s "$PROJECT_DIR/tests" -p 'test_*.py' -v
